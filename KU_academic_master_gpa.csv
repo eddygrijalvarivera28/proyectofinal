@@ -1,0 +1,1202 @@
+Student_ID,Student_Name,Major,Academic_Term,Total_Credits,Term_GPA
+S100479,Reese Martin,Psychology,Summer 2025,7,4.0
+S100471,Alex Robinson,Nursing,Spring 2025,3,4.0
+S100465,Reese White,Computer Science,Fall 2025,3,4.0
+S100009,Alex Robinson,Nursing,Spring 2025,3,4.0
+S100459,Logan Johnson,Psychology,Spring 2025,4,4.0
+S100008,Drew Lewis,Business,Summer 2025,4,4.0
+S100458,Skyler Harris,Business,Fall 2024,4,4.0
+S100456,Drew Martin,Psychology,Summer 2025,4,4.0
+S100440,Reese Lewis,Psychology,Spring 2025,3,4.0
+S100456,Drew Martin,Psychology,Spring 2025,4,4.0
+S100447,Taylor Lewis,Psychology,Spring 2025,4,4.0
+S100446,Logan Martin,Engineering,Fall 2024,4,4.0
+S100438,Casey Johnson,Education,Spring 2025,3,4.0
+S100443,Emerson Anderson,Nursing,Summer 2025,4,4.0
+S100431,Reese Anderson,Computer Science,Spring 2025,3,4.0
+S100434,Skyler Wilson,Engineering,Spring 2025,3,4.0
+S100334,Skyler Garcia,Psychology,Fall 2024,4,4.0
+S100333,Reese Brown,Business,Spring 2025,3,4.0
+S100431,Reese Anderson,Computer Science,Fall 2024,3,4.0
+S100016,Casey Wilson,Computer Science,Summer 2025,3,4.0
+S100420,Harper Smith,Psychology,Summer 2025,4,4.0
+S100015,Jamie Taylor,Business,Fall 2025,4,4.0
+S100413,Hayden Lewis,Nursing,Spring 2025,3,4.0
+S100416,Cameron Martin,Computer Science,Summer 2025,4,4.0
+S100409,Casey Davis,Computer Science,Fall 2025,7,4.0
+S100409,Casey Davis,Computer Science,Spring 2025,3,4.0
+S100412,Morgan Robinson,Engineering,Spring 2025,7,4.0
+S100411,Taylor Moore,Education,Summer 2025,4,4.0
+S100404,Jordan Taylor,Computer Science,Summer 2025,4,4.0
+S100023,Morgan White,Nursing,Spring 2025,4,4.0
+S100407,Logan Johnson,Business,Fall 2024,4,4.0
+S100408,Skyler Smith,Engineering,Fall 2025,3,4.0
+S100387,Quinn Wilson,Nursing,Fall 2024,6,4.0
+S100384,Morgan Wilson,Nursing,Summer 2025,3,4.0
+S100390,Harper Anderson,Nursing,Fall 2025,3,4.0
+S100387,Quinn Wilson,Nursing,Summer 2025,4,4.0
+S100396,Parker Smith,Computer Science,Fall 2025,3,4.0
+S100399,Logan Brown,Psychology,Spring 2025,4,4.0
+S100392,Reese Moore,Business,Fall 2024,4,4.0
+S100394,Reese Garcia,Psychology,Fall 2025,4,4.0
+S100383,Parker Moore,Computer Science,Spring 2025,4,4.0
+S100383,Parker Moore,Computer Science,Fall 2024,4,4.0
+S100366,Parker Robinson,Engineering,Summer 2025,3,4.0
+S100371,Avery Thompson,Engineering,Spring 2025,3,4.0
+S100027,Quinn Johnson,Psychology,Fall 2024,3,4.0
+S100029,Reese Johnson,Psychology,Fall 2024,3,4.0
+S100029,Reese Johnson,Psychology,Spring 2025,3,4.0
+S100381,Rowan Martin,Computer Science,Spring 2025,3,4.0
+S100359,Harper White,Business,Fall 2025,3,4.0
+S100361,Logan Thomas,Engineering,Summer 2025,3,4.0
+S100334,Skyler Garcia,Psychology,Fall 2025,4,4.0
+S100334,Skyler Garcia,Psychology,Spring 2025,3,4.0
+S100340,Harper Brown,Nursing,Fall 2025,3,4.0
+S100346,Hayden Thompson,Nursing,Summer 2025,9,4.0
+S100369,Avery Harris,Nursing,Fall 2025,3,4.0
+S100369,Avery Harris,Nursing,Spring 2025,3,4.0
+S100034,Rowan Wilson,Psychology,Summer 2025,4,4.0
+S100032,Emerson Jackson,Engineering,Fall 2024,3,4.0
+S100349,Casey Harris,Psychology,Fall 2025,4,4.0
+S100031,Cameron Taylor,Psychology,Summer 2025,8,4.0
+S100354,Skyler Taylor,Education,Spring 2025,8,4.0
+S100358,Emerson Clark,Nursing,Fall 2024,3,4.0
+S100272,Jamie Martin,Psychology,Summer 2025,3,4.0
+S100267,Jordan Robinson,Psychology,Spring 2025,3,4.0
+S100286,Avery White,Computer Science,Spring 2025,3,4.0
+S100283,Jamie Thomas,Education,Fall 2025,6,4.0
+S100281,Taylor Anderson,Nursing,Fall 2024,3,4.0
+S100291,Hayden Smith,Business,Fall 2024,3,4.0
+S100304,Jamie White,Nursing,Fall 2025,3,4.0
+S100309,Skyler Garcia,Engineering,Summer 2025,3,4.0
+S100292,Quinn Harris,Education,Summer 2025,3,4.0
+S100295,Cameron Thompson,Psychology,Spring 2025,4,4.0
+S100317,Parker Harris,Engineering,Spring 2025,3,4.0
+S100313,Parker White,Nursing,Fall 2025,3,4.0
+S100319,Logan Garcia,Engineering,Fall 2025,4,4.0
+S100321,Rowan Moore,Education,Fall 2025,4,4.0
+S100039,Cameron Taylor,Business,Spring 2025,3,4.0
+S100323,Alex Moore,Psychology,Fall 2025,4,4.0
+S100042,Avery Smith,Psychology,Summer 2025,3,4.0
+S100331,Harper Lewis,Education,Summer 2025,4,4.0
+S100475,Harper Thompson,Computer Science,Spring 2025,3,4.0
+S100475,Harper Thompson,Computer Science,Fall 2024,8,4.0
+S100099,Avery Garcia,Computer Science,Fall 2025,3,4.0
+S100077,Harper Thomas,Psychology,Fall 2025,4,4.0
+S100075,Riley Robinson,Psychology,Fall 2025,3,4.0
+S100144,Drew Johnson,Business,Spring 2025,3,4.0
+S100139,Jordan Thomas,Computer Science,Spring 2025,4,4.0
+S100136,Quinn Anderson,Computer Science,Fall 2024,4,4.0
+S100127,Riley Harris,Psychology,Summer 2025,4,4.0
+S100125,Kendall Garcia,Education,Spring 2025,4,4.0
+S100113,Hayden Martin,Education,Fall 2025,7,4.0
+S100115,Jordan White,Psychology,Fall 2025,3,4.0
+S100112,Rowan Harris,Nursing,Fall 2024,3,4.0
+S100108,Logan Moore,Nursing,Spring 2025,4,4.0
+S100181,Jordan Johnson,Psychology,Spring 2025,4,4.0
+S100185,Parker Miller,Nursing,Summer 2025,3,4.0
+S100172,Reese Brown,Education,Fall 2024,3,4.0
+S100167,Rowan Anderson,Nursing,Fall 2025,3,4.0
+S100271,Kendall Lewis,Computer Science,Spring 2025,4,4.0
+S100280,Parker Martin,Education,Spring 2025,3,4.0
+S100048,Emerson Davis,Education,Fall 2025,3,4.0
+S100051,Kendall Taylor,Engineering,Fall 2025,3,4.0
+S100047,Logan White,Nursing,Spring 2025,3,4.0
+S100047,Logan White,Nursing,Fall 2025,4,4.0
+S100266,Drew Martin,Computer Science,Fall 2024,3,4.0
+S100269,Emerson Davis,Nursing,Fall 2024,3,4.0
+S100257,Avery Thompson,Computer Science,Fall 2024,4,4.0
+S100055,Casey Martinez,Psychology,Spring 2025,3,4.0
+S100257,Avery Thompson,Computer Science,Fall 2025,3,4.0
+S100260,Skyler Wilson,Education,Spring 2025,4,4.0
+S100263,Casey Garcia,Psychology,Summer 2025,4,4.0
+S100264,Morgan Harris,Engineering,Spring 2025,4,4.0
+S100226,Skyler Wilson,Education,Fall 2025,4,4.0
+S100221,Morgan Lewis,Education,Summer 2025,4,4.0
+S100227,Parker Smith,Education,Fall 2024,3,4.0
+S100226,Skyler Wilson,Education,Summer 2025,3,4.0
+S100221,Morgan Lewis,Education,Fall 2024,3,4.0
+S100220,Parker Smith,Education,Summer 2025,4,4.0
+S100250,Riley Johnson,Nursing,Spring 2025,3,4.0
+S100250,Riley Johnson,Nursing,Fall 2024,4,4.0
+S100248,Emerson Wilson,Nursing,Summer 2025,4,4.0
+S100249,Drew Thompson,Business,Fall 2024,4,4.0
+S100235,Reese Harris,Business,Fall 2025,4,4.0
+S100234,Reese Martinez,Education,Fall 2025,4,4.0
+S100058,Casey Miller,Nursing,Fall 2025,4,4.0
+S100059,Hayden Lewis,Nursing,Summer 2025,3,4.0
+S100237,Reese Robinson,Nursing,Spring 2025,3,4.0
+S100239,Hayden White,Education,Spring 2025,3,4.0
+S100228,Hayden Garcia,Computer Science,Summer 2025,3,4.0
+S100232,Jamie Lewis,Engineering,Spring 2025,3,4.0
+S100190,Kendall Smith,Business,Summer 2025,3,4.0
+S100186,Emerson Robinson,Business,Summer 2025,3,4.0
+S100192,Kendall Davis,Engineering,Fall 2024,3,4.0
+S100193,Hayden Davis,Nursing,Fall 2025,7,4.0
+S100196,Rowan Wilson,Education,Fall 2024,4,4.0
+S100191,Rowan Clark,Psychology,Fall 2024,3,4.0
+S100196,Rowan Wilson,Education,Summer 2025,3,4.0
+S100204,Hayden Moore,Education,Fall 2025,3,4.0
+S100064,Alex Brown,Nursing,Spring 2025,3,4.0
+S100209,Emerson Jackson,Psychology,Fall 2024,3,4.0
+S100068,Riley Martin,Engineering,Fall 2024,3,4.0
+S100211,Avery Garcia,Business,Summer 2025,4,4.0
+S100216,Cameron Robinson,Business,Fall 2024,4,4.0
+S100217,Jamie Garcia,Engineering,Fall 2025,3,4.0
+S100004,Taylor Clark,Education,Spring 2025,4,4.0
+S100002,Avery Davis,Computer Science,Fall 2025,3,4.0
+S100085,Casey Davis,Engineering,Spring 2025,3,4.0
+S100101,Avery Johnson,Nursing,Fall 2025,4,4.0
+S100096,Jamie Garcia,Psychology,Summer 2025,4,4.0
+S100091,Reese White,Engineering,Spring 2025,3,4.0
+S100086,Logan Robinson,Engineering,Fall 2025,4,4.0
+S100090,Kendall Wilson,Computer Science,Fall 2025,3,4.0
+S100000,Morgan Garcia,Education,Fall 2024,3,4.0
+S100107,Skyler Clark,Computer Science,Spring 2025,3,4.0
+S100106,Kendall Davis,Education,Fall 2024,4,4.0
+S100159,Jamie Johnson,Psychology,Fall 2024,3,4.0
+S100149,Avery Clark,Education,Summer 2025,4,4.0
+S100078,Logan Garcia,Psychology,Fall 2025,6,4.0
+S100148,Morgan Clark,Engineering,Fall 2024,4,4.0
+S100148,Morgan Clark,Engineering,Spring 2025,4,4.0
+S100155,Quinn Thomas,Psychology,Fall 2024,4,4.0
+S100152,Hayden Clark,Business,Fall 2025,3,4.0
+S100074,Casey Jackson,Education,Fall 2025,3,4.0
+S100073,Harper Wilson,Nursing,Summer 2025,3,4.0
+S100072,Reese Martinez,Computer Science,Spring 2025,3,4.0
+S100071,Drew Brown,Psychology,Fall 2025,3,4.0
+S100175,Kendall Davis,Computer Science,Fall 2025,3,4.0
+S100173,Casey Taylor,Engineering,Spring 2025,4,4.0
+S100160,Alex Martin,Engineering,Fall 2025,3,4.0
+S100395,Kendall Davis,Engineering,Fall 2025,11,3.727
+S100102,Jordan Thomas,Nursing,Spring 2025,10,3.7
+S100470,Cameron Martinez,Nursing,Spring 2025,7,3.571
+S100433,Avery Taylor,Nursing,Spring 2025,7,3.571
+S100414,Harper Lewis,Psychology,Fall 2025,7,3.571
+S100347,Morgan Harris,Business,Fall 2025,7,3.571
+S100424,Riley Moore,Education,Summer 2025,7,3.571
+S100267,Jordan Robinson,Psychology,Fall 2024,7,3.571
+S100251,Reese Martinez,Psychology,Spring 2025,7,3.571
+S100254,Reese Moore,Nursing,Fall 2025,7,3.571
+S100060,Taylor White,Engineering,Fall 2025,7,3.571
+S100247,Emerson Martin,Engineering,Summer 2025,7,3.571
+S100255,Quinn Davis,Computer Science,Spring 2025,7,3.571
+S100044,Parker Johnson,Engineering,Fall 2025,7,3.571
+S100267,Jordan Robinson,Psychology,Summer 2025,7,3.571
+S100243,Alex Anderson,Business,Spring 2025,7,3.571
+S100372,Logan Martin,Computer Science,Spring 2025,7,3.571
+S100355,Jamie Moore,Engineering,Fall 2024,7,3.571
+S100372,Logan Martin,Computer Science,Fall 2024,7,3.571
+S100451,Taylor Moore,Education,Summer 2025,8,3.5
+S100366,Parker Robinson,Engineering,Fall 2025,6,3.5
+S100408,Skyler Smith,Engineering,Summer 2025,6,3.5
+S100407,Logan Johnson,Business,Spring 2025,8,3.5
+S100337,Quinn Johnson,Nursing,Summer 2025,6,3.5
+S100355,Jamie Moore,Engineering,Spring 2025,8,3.5
+S100363,Quinn Jackson,Computer Science,Fall 2025,8,3.5
+S100358,Emerson Clark,Nursing,Summer 2025,8,3.5
+S100377,Rowan Thompson,Nursing,Fall 2024,6,3.5
+S100328,Skyler Wilson,Psychology,Spring 2025,6,3.5
+S100289,Hayden Thomas,Nursing,Spring 2025,6,3.5
+S100282,Avery Taylor,Computer Science,Fall 2025,8,3.5
+S100057,Jordan Brown,Psychology,Fall 2025,8,3.5
+S100262,Cameron Moore,Education,Fall 2025,8,3.5
+S100213,Jamie Taylor,Nursing,Fall 2024,8,3.5
+S100188,Alex Brown,Psychology,Fall 2024,6,3.5
+S100151,Harper Johnson,Business,Summer 2025,14,3.5
+S100122,Avery Johnson,Education,Spring 2025,6,3.5
+S100126,Taylor Moore,Computer Science,Fall 2025,6,3.5
+S100082,Skyler Johnson,Psychology,Summer 2025,8,3.5
+S100150,Harper Smith,Business,Fall 2025,15,3.467
+S100121,Parker Martin,Education,Summer 2025,11,3.455
+S100066,Jamie Brown,Education,Summer 2025,11,3.455
+S100097,Skyler Robinson,Education,Fall 2025,7,3.429
+S100305,Riley Martin,Psychology,Summer 2025,7,3.429
+S100182,Hayden Taylor,Education,Summer 2025,7,3.429
+S100195,Rowan Smith,Nursing,Spring 2025,7,3.429
+S100245,Hayden Clark,Nursing,Spring 2025,7,3.429
+S100360,Jamie Garcia,Business,Fall 2024,7,3.429
+S100327,Logan Brown,Engineering,Summer 2025,7,3.429
+S100427,Alex Harris,Computer Science,Fall 2024,7,3.429
+S100435,Hayden Brown,Education,Spring 2025,7,3.429
+S100345,Jamie Garcia,Psychology,Fall 2025,14,3.429
+S100400,Alex Clark,Psychology,Fall 2024,7,3.429
+S100348,Rowan Martin,Computer Science,Fall 2025,7,3.429
+S100303,Alex White,Computer Science,Spring 2025,7,3.429
+S100050,Avery Robinson,Engineering,Fall 2024,7,3.429
+S100063,Parker Robinson,Psychology,Summer 2025,7,3.429
+S100425,Riley Robinson,Psychology,Spring 2025,10,3.4
+S100070,Drew Miller,Business,Summer 2025,11,3.364
+S100322,Taylor Smith,Business,Fall 2024,17,3.353
+S100356,Taylor Taylor,Computer Science,Spring 2025,9,3.333
+S100350,Riley Martinez,Computer Science,Fall 2025,9,3.333
+S100171,Alex Robinson,Nursing,Summer 2025,9,3.333
+S100169,Kendall Anderson,Computer Science,Fall 2024,12,3.333
+S100355,Jamie Moore,Engineering,Summer 2025,10,3.3
+S100327,Logan Brown,Engineering,Spring 2025,10,3.3
+S100336,Cameron White,Business,Spring 2025,10,3.3
+S100137,Quinn Smith,Computer Science,Fall 2025,10,3.3
+S100283,Jamie Thomas,Education,Summer 2025,11,3.273
+S100035,Parker Johnson,Business,Fall 2025,11,3.273
+S100137,Quinn Smith,Computer Science,Fall 2024,11,3.273
+S100299,Kendall Lewis,Psychology,Fall 2025,11,3.273
+S100084,Taylor Robinson,Business,Fall 2025,15,3.267
+S100040,Kendall Moore,Computer Science,Fall 2025,20,3.2
+S100161,Harper Clark,Business,Fall 2025,17,3.176
+S100140,Jordan Smith,Nursing,Spring 2025,7,3.143
+S100416,Cameron Martin,Computer Science,Fall 2024,7,3.143
+S100389,Skyler Martinez,Business,Summer 2025,14,3.143
+S100421,Harper Brown,Education,Summer 2025,7,3.143
+S100321,Rowan Moore,Education,Spring 2025,7,3.143
+S100446,Logan Martin,Engineering,Spring 2025,7,3.143
+S100179,Parker Martinez,Nursing,Fall 2025,7,3.143
+S100119,Emerson Davis,Computer Science,Summer 2025,7,3.143
+S100032,Emerson Jackson,Engineering,Fall 2025,7,3.143
+S100014,Riley Harris,Computer Science,Fall 2025,7,3.143
+S100090,Kendall Wilson,Computer Science,Summer 2025,7,3.143
+S100184,Jamie Davis,Psychology,Fall 2024,7,3.143
+S100127,Riley Harris,Psychology,Fall 2024,10,3.1
+S100385,Jamie Brown,Business,Fall 2025,11,3.091
+S100391,Morgan Wilson,Computer Science,Summer 2025,15,3.067
+S100273,Harper Martinez,Nursing,Fall 2024,15,3.067
+S100166,Taylor Moore,Psychology,Fall 2024,17,3.059
+S100445,Drew Robinson,Engineering,Spring 2025,4,3.0
+S100444,Cameron Taylor,Psychology,Fall 2025,8,3.0
+S100441,Skyler Anderson,Engineering,Spring 2025,4,3.0
+S100441,Skyler Anderson,Engineering,Fall 2025,4,3.0
+S100441,Skyler Anderson,Engineering,Fall 2024,8,3.0
+S100097,Skyler Robinson,Education,Summer 2025,4,3.0
+S100097,Skyler Robinson,Education,Spring 2025,4,3.0
+S100096,Jamie Garcia,Psychology,Fall 2024,4,3.0
+S100095,Avery Johnson,Business,Summer 2025,4,3.0
+S100093,Drew Martin,Computer Science,Fall 2025,3,3.0
+S100439,Jordan Miller,Nursing,Spring 2025,3,3.0
+S100437,Casey Taylor,Engineering,Summer 2025,3,3.0
+S100436,Kendall Moore,Engineering,Fall 2025,8,3.0
+S100434,Skyler Wilson,Engineering,Fall 2024,4,3.0
+S100429,Logan Anderson,Engineering,Summer 2025,4,3.0
+S100428,Emerson Lewis,Nursing,Spring 2025,4,3.0
+S100428,Emerson Lewis,Nursing,Fall 2024,3,3.0
+S100018,Taylor White,Computer Science,Summer 2025,4,3.0
+S100017,Jamie Brown,Psychology,Spring 2025,8,3.0
+S100083,Taylor Thompson,Computer Science,Fall 2025,3,3.0
+S100083,Taylor Thompson,Computer Science,Fall 2024,4,3.0
+S100082,Skyler Johnson,Psychology,Fall 2024,4,3.0
+S100081,Jordan Moore,Business,Summer 2025,3,3.0
+S100081,Jordan Moore,Business,Spring 2025,6,3.0
+S100080,Reese Moore,Education,Summer 2025,3,3.0
+S100079,Morgan Jackson,Education,Summer 2025,4,3.0
+S100102,Jordan Thomas,Nursing,Fall 2024,7,3.0
+S100100,Taylor Smith,Psychology,Spring 2025,4,3.0
+S100016,Casey Wilson,Computer Science,Fall 2025,4,3.0
+S100015,Jamie Taylor,Business,Summer 2025,6,3.0
+S100015,Jamie Taylor,Business,Fall 2024,4,3.0
+S100423,Parker Johnson,Psychology,Fall 2024,4,3.0
+S100107,Skyler Clark,Computer Science,Summer 2025,4,3.0
+S100104,Avery Taylor,Education,Summer 2025,3,3.0
+S100103,Taylor Martinez,Engineering,Spring 2025,9,3.0
+S100103,Taylor Martinez,Engineering,Fall 2025,3,3.0
+S100085,Casey Davis,Engineering,Fall 2025,4,3.0
+S100084,Taylor Robinson,Business,Spring 2025,4,3.0
+S100422,Quinn Wilson,Computer Science,Summer 2025,4,3.0
+S100417,Emerson Anderson,Computer Science,Summer 2025,3,3.0
+S100414,Harper Lewis,Psychology,Fall 2024,4,3.0
+S100411,Taylor Moore,Education,Spring 2025,3,3.0
+S100411,Taylor Moore,Education,Fall 2025,6,3.0
+S100410,Skyler Anderson,Education,Summer 2025,8,3.0
+S100410,Skyler Anderson,Education,Fall 2025,11,3.0
+S100410,Skyler Anderson,Education,Fall 2024,3,3.0
+S100409,Casey Davis,Computer Science,Fall 2024,3,3.0
+S100026,Rowan Clark,Nursing,Summer 2025,6,3.0
+S100117,Avery Wilson,Computer Science,Spring 2025,4,3.0
+S100117,Avery Wilson,Computer Science,Fall 2025,3,3.0
+S100116,Jamie Brown,Engineering,Spring 2025,3,3.0
+S100114,Jordan Brown,Education,Spring 2025,4,3.0
+S100113,Hayden Martin,Education,Fall 2024,3,3.0
+S100111,Morgan Harris,Psychology,Spring 2025,3,3.0
+S100110,Quinn Brown,Engineering,Summer 2025,4,3.0
+S100110,Quinn Brown,Engineering,Fall 2025,3,3.0
+S100024,Taylor Robinson,Engineering,Fall 2025,3,3.0
+S100024,Taylor Robinson,Engineering,Fall 2024,3,3.0
+S100023,Morgan White,Nursing,Summer 2025,4,3.0
+S100021,Parker Smith,Psychology,Spring 2025,4,3.0
+S100020,Rowan Lewis,Business,Summer 2025,4,3.0
+S100406,Taylor White,Engineering,Fall 2025,4,3.0
+S100126,Taylor Moore,Computer Science,Fall 2024,9,3.0
+S100125,Kendall Garcia,Education,Fall 2025,4,3.0
+S100123,Emerson Robinson,Nursing,Fall 2025,7,3.0
+S100123,Emerson Robinson,Nursing,Fall 2024,3,3.0
+S100120,Hayden Miller,Business,Fall 2024,4,3.0
+S100405,Logan Brown,Psychology,Spring 2025,4,3.0
+S100404,Jordan Taylor,Computer Science,Fall 2024,3,3.0
+S100401,Reese Thompson,Nursing,Spring 2025,8,3.0
+S100398,Reese Davis,Computer Science,Spring 2025,3,3.0
+S100397,Jordan Robinson,Education,Summer 2025,3,3.0
+S100397,Jordan Robinson,Education,Spring 2025,4,3.0
+S100396,Parker Smith,Computer Science,Summer 2025,7,3.0
+S100396,Parker Smith,Computer Science,Spring 2025,3,3.0
+S100395,Kendall Davis,Engineering,Summer 2025,4,3.0
+S100395,Kendall Davis,Engineering,Spring 2025,6,3.0
+S100134,Hayden Robinson,Education,Fall 2025,4,3.0
+S100133,Emerson Anderson,Business,Summer 2025,4,3.0
+S100133,Emerson Anderson,Business,Fall 2025,8,3.0
+S100131,Cameron Garcia,Computer Science,Fall 2024,6,3.0
+S100130,Jordan Miller,Education,Fall 2025,4,3.0
+S100126,Taylor Moore,Computer Science,Summer 2025,10,3.0
+S100392,Reese Moore,Business,Spring 2025,3,3.0
+S100391,Morgan Wilson,Computer Science,Fall 2025,3,3.0
+S100388,Logan Taylor,Computer Science,Summer 2025,4,3.0
+S100387,Quinn Wilson,Nursing,Fall 2025,3,3.0
+S100385,Jamie Brown,Business,Summer 2025,4,3.0
+S100385,Jamie Brown,Business,Spring 2025,3,3.0
+S100144,Drew Johnson,Business,Fall 2024,7,3.0
+S100143,Riley Smith,Psychology,Summer 2025,4,3.0
+S100142,Drew Martinez,Nursing,Fall 2024,4,3.0
+S100141,Skyler Thompson,Nursing,Spring 2025,4,3.0
+S100141,Skyler Thompson,Nursing,Fall 2024,10,3.0
+S100384,Morgan Wilson,Nursing,Spring 2025,3,3.0
+S100380,Kendall Thomas,Education,Fall 2025,3,3.0
+S100379,Rowan Harris,Computer Science,Fall 2025,3,3.0
+S100378,Kendall Martinez,Business,Summer 2025,4,3.0
+S100378,Kendall Martinez,Business,Spring 2025,8,3.0
+S100078,Logan Garcia,Psychology,Summer 2025,6,3.0
+S100078,Logan Garcia,Psychology,Fall 2024,8,3.0
+S100077,Harper Thomas,Psychology,Summer 2025,3,3.0
+S100077,Harper Thomas,Psychology,Fall 2024,4,3.0
+S100076,Drew Garcia,Education,Summer 2025,3,3.0
+S100076,Drew Garcia,Education,Spring 2025,9,3.0
+S100075,Riley Robinson,Psychology,Spring 2025,3,3.0
+S100377,Rowan Thompson,Nursing,Summer 2025,3,3.0
+S100377,Rowan Thompson,Nursing,Fall 2025,3,3.0
+S100376,Reese Clark,Engineering,Fall 2024,4,3.0
+S100375,Cameron Moore,Business,Fall 2025,4,3.0
+S100373,Alex Johnson,Nursing,Spring 2025,3,3.0
+S100373,Alex Johnson,Nursing,Fall 2025,7,3.0
+S100372,Logan Martin,Computer Science,Summer 2025,6,3.0
+S100153,Skyler Martinez,Computer Science,Fall 2025,4,3.0
+S100147,Avery White,Psychology,Fall 2024,4,3.0
+S100029,Reese Johnson,Psychology,Fall 2025,3,3.0
+S100028,Jordan Moore,Psychology,Fall 2025,4,3.0
+S100028,Jordan Moore,Psychology,Fall 2024,3,3.0
+S100027,Quinn Johnson,Psychology,Spring 2025,3,3.0
+S100372,Logan Martin,Computer Science,Fall 2025,4,3.0
+S100370,Logan Robinson,Business,Spring 2025,4,3.0
+S100370,Logan Robinson,Business,Fall 2024,3,3.0
+S100368,Quinn Johnson,Business,Summer 2025,3,3.0
+S100364,Parker Thomas,Engineering,Spring 2025,7,3.0
+S100363,Quinn Jackson,Computer Science,Summer 2025,3,3.0
+S100362,Riley Thompson,Business,Summer 2025,3,3.0
+S100360,Jamie Garcia,Business,Summer 2025,6,3.0
+S100359,Harper White,Business,Summer 2025,4,3.0
+S100358,Emerson Clark,Nursing,Spring 2025,3,3.0
+S100358,Emerson Clark,Nursing,Fall 2025,3,3.0
+S100357,Emerson Moore,Computer Science,Fall 2025,4,3.0
+S100158,Reese Martin,Business,Summer 2025,4,3.0
+S100155,Quinn Thomas,Psychology,Fall 2025,4,3.0
+S100356,Taylor Taylor,Computer Science,Fall 2024,3,3.0
+S100433,Avery Taylor,Nursing,Fall 2024,3,3.0
+S100353,Emerson Harris,Education,Fall 2024,3,3.0
+S100352,Kendall Thompson,Business,Fall 2025,3,3.0
+S100038,Riley Martin,Education,Fall 2025,3,3.0
+S100038,Riley Martin,Education,Fall 2024,3,3.0
+S100037,Kendall Moore,Engineering,Fall 2025,4,3.0
+S100163,Kendall Wilson,Psychology,Fall 2025,4,3.0
+S100162,Morgan Johnson,Business,Spring 2025,4,3.0
+S100162,Morgan Johnson,Business,Fall 2025,11,3.0
+S100089,Hayden Wilson,Psychology,Spring 2025,7,3.0
+S100160,Alex Martin,Engineering,Fall 2024,7,3.0
+S100231,Hayden Johnson,Computer Science,Fall 2024,3,3.0
+S100034,Rowan Wilson,Psychology,Fall 2024,6,3.0
+S100033,Riley Jackson,Business,Summer 2025,4,3.0
+S100231,Hayden Johnson,Computer Science,Spring 2025,3,3.0
+S100351,Parker Lewis,Education,Fall 2025,11,3.0
+S100350,Riley Martinez,Computer Science,Spring 2025,3,3.0
+S100085,Casey Davis,Engineering,Summer 2025,3,3.0
+S100001,Parker Moore,Psychology,Spring 2025,3,3.0
+S100345,Jamie Garcia,Psychology,Spring 2025,7,3.0
+S100009,Alex Robinson,Nursing,Summer 2025,4,3.0
+S100344,Taylor Martinez,Computer Science,Fall 2025,3,3.0
+S100341,Skyler Smith,Engineering,Summer 2025,6,3.0
+S100009,Alex Robinson,Nursing,Fall 2025,3,3.0
+S100170,Harper Martinez,Psychology,Fall 2025,3,3.0
+S100169,Kendall Anderson,Computer Science,Spring 2025,12,3.0
+S100087,Riley Taylor,Nursing,Fall 2025,8,3.0
+S100167,Rowan Anderson,Nursing,Summer 2025,4,3.0
+S100166,Taylor Moore,Psychology,Summer 2025,3,3.0
+S100166,Taylor Moore,Psychology,Spring 2025,4,3.0
+S100477,Quinn Taylor,Computer Science,Fall 2025,3,3.0
+S100340,Harper Brown,Nursing,Fall 2024,3,3.0
+S100339,Morgan Anderson,Education,Fall 2025,7,3.0
+S100339,Morgan Anderson,Education,Fall 2024,4,3.0
+S100338,Skyler Moore,Computer Science,Summer 2025,4,3.0
+S100338,Skyler Moore,Computer Science,Spring 2025,11,3.0
+S100476,Emerson Smith,Computer Science,Fall 2025,3,3.0
+S100476,Emerson Smith,Computer Science,Fall 2024,7,3.0
+S100474,Drew Jackson,Psychology,Spring 2025,3,3.0
+S100046,Jamie Wilson,Computer Science,Fall 2024,4,3.0
+S100073,Harper Wilson,Nursing,Spring 2025,4,3.0
+S100072,Reese Martinez,Computer Science,Fall 2025,4,3.0
+S100473,Jordan Wilson,Education,Spring 2025,8,3.0
+S100045,Quinn Clark,Nursing,Fall 2025,3,3.0
+S100043,Jamie White,Nursing,Fall 2024,8,3.0
+S100041,Jamie Smith,Nursing,Fall 2025,4,3.0
+S100353,Emerson Harris,Education,Fall 2025,6,3.0
+S100325,Harper Davis,Computer Science,Fall 2024,3,3.0
+S100324,Quinn Garcia,Education,Fall 2025,3,3.0
+S100324,Quinn Garcia,Education,Fall 2024,6,3.0
+S100463,Riley Thomas,Psychology,Fall 2025,3,3.0
+S100462,Jamie Brown,Psychology,Spring 2025,8,3.0
+S100318,Parker Johnson,Psychology,Fall 2024,4,3.0
+S100317,Parker Harris,Engineering,Summer 2025,3,3.0
+S100460,Logan Jackson,Nursing,Fall 2024,8,3.0
+S100183,Jordan Garcia,Nursing,Summer 2025,7,3.0
+S100459,Logan Johnson,Psychology,Summer 2025,8,3.0
+S100182,Hayden Taylor,Education,Fall 2024,3,3.0
+S100180,Logan Taylor,Education,Spring 2025,4,3.0
+S100456,Drew Martin,Psychology,Fall 2024,3,3.0
+S100074,Casey Jackson,Education,Spring 2025,4,3.0
+S100313,Parker White,Nursing,Summer 2025,4,3.0
+S100313,Parker White,Nursing,Fall 2024,4,3.0
+S100311,Casey Martin,Psychology,Fall 2025,4,3.0
+S100310,Taylor Harris,Business,Summer 2025,7,3.0
+S100310,Taylor Harris,Business,Spring 2025,3,3.0
+S100308,Cameron Clark,Business,Fall 2024,3,3.0
+S100306,Casey Lewis,Computer Science,Fall 2025,3,3.0
+S100306,Casey Lewis,Computer Science,Fall 2024,4,3.0
+S100092,Rowan Martin,Psychology,Spring 2025,3,3.0
+S100305,Riley Martin,Psychology,Fall 2025,6,3.0
+S100305,Riley Martin,Psychology,Fall 2024,4,3.0
+S100092,Rowan Martin,Psychology,Fall 2025,4,3.0
+S100193,Hayden Davis,Nursing,Fall 2024,4,3.0
+S100190,Kendall Smith,Business,Fall 2024,3,3.0
+S100189,Taylor Davis,Computer Science,Spring 2025,4,3.0
+S100189,Taylor Davis,Computer Science,Fall 2025,6,3.0
+S100187,Hayden Robinson,Psychology,Fall 2024,3,3.0
+S100301,Avery Taylor,Business,Spring 2025,4,3.0
+S100301,Avery Taylor,Business,Fall 2025,4,3.0
+S100089,Hayden Wilson,Psychology,Summer 2025,6,3.0
+S100298,Hayden Robinson,Education,Fall 2024,12,3.0
+S100294,Alex Clark,Education,Fall 2024,4,3.0
+S100293,Cameron Clark,Computer Science,Spring 2025,4,3.0
+S100293,Cameron Clark,Computer Science,Fall 2025,6,3.0
+S100293,Cameron Clark,Computer Science,Fall 2024,4,3.0
+S100197,Avery Brown,Nursing,Fall 2025,3,3.0
+S100197,Avery Brown,Nursing,Fall 2024,3,3.0
+S100196,Rowan Wilson,Education,Fall 2025,7,3.0
+S100005,Hayden Smith,Engineering,Spring 2025,3,3.0
+S100195,Rowan Smith,Nursing,Fall 2025,3,3.0
+S100195,Rowan Smith,Nursing,Fall 2024,3,3.0
+S100194,Jordan Anderson,Engineering,Spring 2025,4,3.0
+S100194,Jordan Anderson,Engineering,Fall 2024,3,3.0
+S100193,Hayden Davis,Nursing,Summer 2025,3,3.0
+S100291,Hayden Smith,Business,Spring 2025,3,3.0
+S100289,Hayden Thomas,Nursing,Fall 2024,4,3.0
+S100285,Casey Davis,Psychology,Spring 2025,4,3.0
+S100088,Drew Lewis,Computer Science,Summer 2025,4,3.0
+S100282,Avery Taylor,Computer Science,Summer 2025,3,3.0
+S100282,Avery Taylor,Computer Science,Spring 2025,3,3.0
+S100282,Avery Taylor,Computer Science,Fall 2024,4,3.0
+S100280,Parker Martin,Education,Fall 2025,7,3.0
+S100088,Drew Lewis,Computer Science,Fall 2024,3,3.0
+S100049,Parker Davis,Nursing,Fall 2025,7,3.0
+S100205,Parker Miller,Education,Fall 2024,4,3.0
+S100203,Riley Thomas,Engineering,Spring 2025,3,3.0
+S100201,Riley Miller,Nursing,Summer 2025,3,3.0
+S100201,Riley Miller,Nursing,Spring 2025,3,3.0
+S100200,Casey Moore,Psychology,Fall 2024,3,3.0
+S100049,Parker Davis,Nursing,Fall 2024,15,3.0
+S100048,Emerson Davis,Education,Summer 2025,3,3.0
+S100048,Emerson Davis,Education,Fall 2024,12,3.0
+S100046,Jamie Wilson,Computer Science,Summer 2025,3,3.0
+S100275,Emerson Miller,Education,Spring 2025,3,3.0
+S100450,Parker Garcia,Computer Science,Summer 2025,4,3.0
+S100268,Avery Brown,Computer Science,Spring 2025,4,3.0
+S100268,Avery Brown,Computer Science,Fall 2024,7,3.0
+S100265,Avery Miller,Nursing,Fall 2025,4,3.0
+S100450,Parker Garcia,Computer Science,Fall 2024,3,3.0
+S100066,Jamie Brown,Education,Spring 2025,4,3.0
+S100064,Alex Brown,Nursing,Summer 2025,3,3.0
+S100064,Alex Brown,Nursing,Fall 2025,4,3.0
+S100064,Alex Brown,Nursing,Fall 2024,4,3.0
+S100449,Jamie Lewis,Education,Spring 2025,3,3.0
+S100208,Avery Wilson,Education,Fall 2025,4,3.0
+S100206,Morgan White,Computer Science,Fall 2025,4,3.0
+S100263,Casey Garcia,Psychology,Fall 2025,4,3.0
+S100262,Cameron Moore,Education,Fall 2024,7,3.0
+S100260,Skyler Wilson,Education,Fall 2025,8,3.0
+S100259,Emerson Harris,Business,Summer 2025,6,3.0
+S100258,Harper Johnson,Business,Summer 2025,4,3.0
+S100256,Alex Smith,Psychology,Summer 2025,8,3.0
+S100056,Logan Johnson,Engineering,Spring 2025,4,3.0
+S100056,Logan Johnson,Engineering,Fall 2024,3,3.0
+S100215,Rowan Martinez,Education,Spring 2025,4,3.0
+S100213,Jamie Taylor,Nursing,Spring 2025,8,3.0
+S100210,Reese Moore,Nursing,Fall 2025,4,3.0
+S100067,Reese Harris,Business,Summer 2025,4,3.0
+S100054,Rowan Moore,Business,Fall 2024,4,3.0
+S100053,Skyler White,Psychology,Summer 2025,4,3.0
+S100052,Skyler Harris,Education,Fall 2024,7,3.0
+S100253,Taylor Moore,Education,Spring 2025,3,3.0
+S100252,Harper Thomas,Nursing,Summer 2025,4,3.0
+S100250,Riley Johnson,Nursing,Fall 2025,3,3.0
+S100249,Drew Thompson,Business,Spring 2025,7,3.0
+S100248,Emerson Wilson,Nursing,Fall 2024,7,3.0
+S100247,Emerson Martin,Engineering,Fall 2025,4,3.0
+S100245,Hayden Clark,Nursing,Summer 2025,3,3.0
+S100445,Drew Robinson,Engineering,Summer 2025,7,3.0
+S100245,Hayden Clark,Nursing,Fall 2024,7,3.0
+S100223,Jamie Harris,Business,Summer 2025,3,3.0
+S100220,Parker Smith,Education,Spring 2025,6,3.0
+S100220,Parker Smith,Education,Fall 2025,8,3.0
+S100220,Parker Smith,Education,Fall 2024,4,3.0
+S100218,Morgan Taylor,Nursing,Summer 2025,7,3.0
+S100008,Drew Lewis,Business,Fall 2025,4,3.0
+S100218,Morgan Taylor,Nursing,Fall 2025,4,3.0
+S100218,Morgan Taylor,Nursing,Fall 2024,3,3.0
+S100217,Jamie Garcia,Engineering,Spring 2025,12,3.0
+S100240,Riley Lewis,Psychology,Fall 2025,3,3.0
+S100240,Riley Lewis,Psychology,Fall 2024,7,3.0
+S100238,Casey Wilson,Nursing,Summer 2025,3,3.0
+S100063,Parker Robinson,Psychology,Fall 2025,9,3.0
+S100063,Parker Robinson,Psychology,Fall 2024,4,3.0
+S100061,Cameron Lewis,Engineering,Summer 2025,4,3.0
+S100059,Hayden Lewis,Nursing,Spring 2025,4,3.0
+S100059,Hayden Lewis,Nursing,Fall 2024,8,3.0
+S100057,Jordan Brown,Psychology,Spring 2025,4,3.0
+S100235,Reese Harris,Business,Summer 2025,12,3.0
+S100232,Jamie Lewis,Engineering,Fall 2025,3,3.0
+S100463,Riley Thomas,Psychology,Summer 2025,3,3.0
+S100465,Reese White,Computer Science,Fall 2024,3,3.0
+S100227,Parker Smith,Education,Summer 2025,4,3.0
+S100227,Parker Smith,Education,Fall 2025,6,3.0
+S100470,Cameron Martinez,Nursing,Summer 2025,8,3.0
+S100469,Jamie Brown,Education,Summer 2025,3,3.0
+S100467,Emerson Johnson,Psychology,Spring 2025,4,3.0
+S100467,Emerson Johnson,Psychology,Fall 2024,4,3.0
+S100466,Kendall Smith,Nursing,Summer 2025,4,3.0
+S100466,Kendall Smith,Nursing,Fall 2025,3,3.0
+S100465,Reese White,Computer Science,Summer 2025,4,3.0
+S100013,Parker Garcia,Psychology,Fall 2024,4,3.0
+S100004,Taylor Clark,Education,Fall 2025,3,3.0
+S100003,Morgan Robinson,Computer Science,Spring 2025,7,3.0
+S100002,Avery Davis,Computer Science,Fall 2024,3,3.0
+S100001,Parker Moore,Psychology,Summer 2025,4,3.0
+S100218,Morgan Taylor,Nursing,Spring 2025,4,3.0
+S100081,Jordan Moore,Business,Fall 2025,14,2.929
+S100212,Quinn White,Engineering,Fall 2025,11,2.909
+S100087,Riley Taylor,Nursing,Fall 2024,11,2.909
+S100103,Taylor Martinez,Engineering,Summer 2025,11,2.909
+S100185,Parker Miller,Nursing,Fall 2024,11,2.909
+S100202,Hayden Garcia,Computer Science,Fall 2025,10,2.9
+S100448,Jordan Harris,Computer Science,Fall 2025,7,2.857
+S100238,Casey Wilson,Nursing,Fall 2024,7,2.857
+S100061,Cameron Lewis,Engineering,Fall 2024,7,2.857
+S100092,Rowan Martin,Psychology,Summer 2025,7,2.857
+S100030,Avery Brown,Business,Fall 2025,7,2.857
+S100011,Hayden Moore,Computer Science,Spring 2025,7,2.857
+S100222,Hayden Jackson,Education,Fall 2024,7,2.857
+S100096,Jamie Garcia,Psychology,Fall 2025,7,2.857
+S100251,Reese Martinez,Psychology,Summer 2025,7,2.857
+S100056,Logan Johnson,Engineering,Fall 2025,7,2.857
+S100399,Logan Brown,Psychology,Summer 2025,7,2.857
+S100144,Drew Johnson,Business,Summer 2025,16,2.812
+S100156,Avery Taylor,Engineering,Fall 2025,10,2.8
+S100083,Taylor Thompson,Computer Science,Spring 2025,10,2.8
+S100081,Jordan Moore,Business,Fall 2024,19,2.789
+S100107,Skyler Clark,Computer Science,Fall 2025,14,2.786
+S100043,Jamie White,Nursing,Summer 2025,13,2.769
+S100214,Taylor Taylor,Business,Spring 2025,13,2.769
+S100068,Riley Martin,Engineering,Summer 2025,15,2.733
+S100319,Logan Garcia,Engineering,Fall 2024,11,2.727
+S100094,Morgan Moore,Education,Fall 2024,11,2.727
+S100449,Jamie Lewis,Education,Fall 2025,11,2.727
+S100192,Kendall Davis,Engineering,Fall 2025,11,2.727
+S100140,Jordan Smith,Nursing,Summer 2025,11,2.727
+S100368,Quinn Johnson,Business,Spring 2025,18,2.722
+S100425,Riley Robinson,Psychology,Fall 2024,7,2.714
+S100326,Avery Davis,Psychology,Summer 2025,7,2.714
+S100243,Alex Anderson,Business,Summer 2025,7,2.714
+S100115,Jordan White,Psychology,Fall 2024,7,2.714
+S100089,Hayden Wilson,Psychology,Fall 2025,10,2.7
+S100272,Jamie Martin,Psychology,Fall 2025,10,2.7
+S100405,Logan Brown,Psychology,Fall 2024,10,2.7
+S100392,Reese Moore,Business,Fall 2025,10,2.7
+S100224,Harper Martinez,Education,Spring 2025,12,2.667
+S100382,Parker Anderson,Business,Fall 2024,9,2.667
+S100307,Kendall Garcia,Computer Science,Fall 2025,9,2.667
+S100307,Kendall Garcia,Computer Science,Spring 2025,9,2.667
+S100267,Jordan Robinson,Psychology,Fall 2025,9,2.667
+S100111,Morgan Harris,Psychology,Fall 2025,9,2.667
+S100405,Logan Brown,Psychology,Fall 2025,12,2.667
+S100211,Avery Garcia,Business,Fall 2025,17,2.647
+S100068,Riley Martin,Engineering,Fall 2025,11,2.636
+S100152,Hayden Clark,Business,Summer 2025,11,2.636
+S100416,Cameron Martin,Computer Science,Fall 2025,16,2.625
+S100030,Avery Brown,Business,Spring 2025,16,2.625
+S100154,Jamie Taylor,Engineering,Spring 2025,10,2.6
+S100165,Casey Jackson,Nursing,Fall 2024,10,2.6
+S100466,Kendall Smith,Nursing,Fall 2024,10,2.6
+S100408,Skyler Smith,Engineering,Spring 2025,10,2.6
+S100261,Cameron Thompson,Education,Spring 2025,17,2.588
+S100459,Logan Johnson,Psychology,Fall 2025,7,2.571
+S100463,Riley Thomas,Psychology,Fall 2024,7,2.571
+S100464,Hayden Thompson,Education,Fall 2024,7,2.571
+S100314,Jamie Wilson,Education,Fall 2025,7,2.571
+S100230,Quinn Jackson,Psychology,Fall 2025,7,2.571
+S100058,Casey Miller,Nursing,Summer 2025,7,2.571
+S100346,Hayden Thompson,Nursing,Fall 2024,7,2.571
+S100065,Kendall Taylor,Business,Fall 2024,7,2.571
+S100065,Kendall Taylor,Business,Summer 2025,7,2.571
+S100069,Alex Taylor,Psychology,Fall 2025,7,2.571
+S100215,Rowan Martinez,Education,Summer 2025,7,2.571
+S100378,Kendall Martinez,Business,Fall 2025,7,2.571
+S100464,Hayden Thompson,Education,Spring 2025,7,2.571
+S100472,Emerson Harris,Business,Summer 2025,7,2.571
+S100062,Emerson Martinez,Psychology,Summer 2025,7,2.571
+S100454,Skyler Smith,Education,Spring 2025,7,2.571
+S100352,Kendall Thompson,Business,Fall 2024,13,2.538
+S100202,Hayden Garcia,Computer Science,Summer 2025,6,2.5
+S100234,Reese Martinez,Education,Fall 2024,8,2.5
+S100090,Kendall Wilson,Computer Science,Fall 2024,6,2.5
+S100380,Kendall Thomas,Education,Summer 2025,8,2.5
+S100128,Logan Thompson,Computer Science,Spring 2025,8,2.5
+S100479,Reese Martin,Psychology,Fall 2024,8,2.5
+S100004,Taylor Clark,Education,Fall 2024,14,2.5
+S100178,Jamie Wilson,Engineering,Summer 2025,8,2.5
+S100198,Rowan Robinson,Computer Science,Fall 2025,6,2.5
+S100205,Parker Miller,Education,Fall 2025,8,2.5
+S100197,Avery Brown,Nursing,Summer 2025,8,2.5
+S100300,Avery Thompson,Computer Science,Fall 2024,8,2.5
+S100407,Logan Johnson,Business,Summer 2025,8,2.5
+S100409,Casey Davis,Computer Science,Summer 2025,6,2.5
+S100054,Rowan Moore,Business,Summer 2025,8,2.5
+S100154,Jamie Taylor,Engineering,Fall 2024,6,2.5
+S100259,Emerson Harris,Business,Fall 2024,6,2.5
+S100256,Alex Smith,Psychology,Fall 2025,6,2.5
+S100255,Quinn Davis,Computer Science,Fall 2025,8,2.5
+S100304,Jamie White,Nursing,Spring 2025,6,2.5
+S100346,Hayden Thompson,Nursing,Spring 2025,6,2.5
+S100156,Avery Taylor,Engineering,Spring 2025,6,2.5
+S100055,Casey Martinez,Psychology,Fall 2024,6,2.5
+S100362,Riley Thompson,Business,Fall 2025,8,2.5
+S100120,Hayden Miller,Business,Fall 2025,8,2.5
+S100151,Harper Johnson,Business,Fall 2024,8,2.5
+S100029,Reese Johnson,Psychology,Summer 2025,8,2.5
+S100451,Taylor Moore,Education,Fall 2025,6,2.5
+S100089,Hayden Wilson,Psychology,Fall 2024,6,2.5
+S100252,Harper Thomas,Nursing,Fall 2024,6,2.5
+S100368,Quinn Johnson,Business,Fall 2024,8,2.5
+S100343,Hayden Jackson,Nursing,Fall 2025,6,2.5
+S100036,Harper Miller,Engineering,Summer 2025,8,2.5
+S100124,Morgan Smith,Business,Fall 2024,8,2.5
+S100246,Harper Thomas,Engineering,Spring 2025,8,2.5
+S100445,Drew Robinson,Engineering,Fall 2025,8,2.5
+S100417,Emerson Anderson,Computer Science,Fall 2025,8,2.5
+S100272,Jamie Martin,Psychology,Fall 2024,8,2.5
+S100273,Harper Martinez,Nursing,Summer 2025,6,2.5
+S100093,Drew Martin,Computer Science,Summer 2025,8,2.5
+S100286,Avery White,Computer Science,Fall 2024,8,2.5
+S100307,Kendall Garcia,Computer Science,Fall 2024,8,2.5
+S100109,Logan Harris,Education,Fall 2025,6,2.5
+S100309,Skyler Garcia,Engineering,Fall 2024,10,2.5
+S100312,Riley Smith,Psychology,Spring 2025,8,2.5
+S100101,Avery Johnson,Nursing,Summer 2025,8,2.5
+S100277,Parker Moore,Nursing,Fall 2024,6,2.5
+S100328,Skyler Wilson,Psychology,Fall 2025,8,2.5
+S100330,Rowan Miller,Computer Science,Fall 2025,12,2.5
+S100288,Taylor Harris,Engineering,Fall 2024,7,2.429
+S100443,Emerson Anderson,Nursing,Spring 2025,7,2.429
+S100382,Parker Anderson,Business,Fall 2025,7,2.429
+S100367,Alex Martinez,Business,Fall 2024,7,2.429
+S100438,Casey Johnson,Education,Fall 2025,7,2.429
+S100204,Hayden Moore,Education,Spring 2025,7,2.429
+S100026,Rowan Clark,Nursing,Spring 2025,7,2.429
+S100109,Logan Harris,Education,Summer 2025,7,2.429
+S100053,Skyler White,Psychology,Spring 2025,7,2.429
+S100335,Reese Clark,Psychology,Spring 2025,7,2.429
+S100049,Parker Davis,Nursing,Spring 2025,7,2.429
+S100418,Skyler Harris,Psychology,Spring 2025,7,2.429
+S100308,Cameron Clark,Business,Spring 2025,7,2.429
+S100380,Kendall Thomas,Education,Fall 2024,15,2.4
+S100135,Logan Davis,Nursing,Fall 2024,10,2.4
+S100333,Reese Brown,Business,Summer 2025,10,2.4
+S100051,Kendall Taylor,Engineering,Summer 2025,10,2.4
+S100421,Harper Brown,Education,Spring 2025,10,2.4
+S100209,Emerson Jackson,Psychology,Fall 2025,10,2.4
+S100474,Drew Jackson,Psychology,Fall 2025,10,2.4
+S100102,Jordan Thomas,Nursing,Summer 2025,11,2.364
+S100137,Quinn Smith,Computer Science,Spring 2025,11,2.364
+S100291,Hayden Smith,Business,Fall 2025,11,2.364
+S100436,Kendall Moore,Engineering,Fall 2024,11,2.364
+S100092,Rowan Martin,Psychology,Fall 2024,14,2.357
+S100071,Drew Brown,Psychology,Spring 2025,9,2.333
+S100320,Kendall Smith,Education,Summer 2025,9,2.333
+S100332,Morgan Miller,Nursing,Spring 2025,12,2.333
+S100190,Kendall Smith,Business,Fall 2025,9,2.333
+S100161,Harper Clark,Business,Fall 2024,9,2.333
+S100285,Casey Davis,Psychology,Fall 2024,13,2.308
+S100402,Logan Martin,Engineering,Summer 2025,13,2.308
+S100257,Avery Thompson,Computer Science,Summer 2025,10,2.3
+S100044,Parker Johnson,Engineering,Summer 2025,10,2.3
+S100350,Riley Martinez,Computer Science,Summer 2025,10,2.3
+S100288,Taylor Harris,Engineering,Fall 2025,10,2.3
+S100427,Alex Harris,Computer Science,Summer 2025,7,2.286
+S100186,Emerson Robinson,Business,Spring 2025,7,2.286
+S100266,Drew Martin,Computer Science,Fall 2025,7,2.286
+S100191,Rowan Clark,Psychology,Summer 2025,7,2.286
+S100113,Hayden Martin,Education,Summer 2025,7,2.286
+S100403,Jamie Miller,Engineering,Fall 2025,7,2.286
+S100403,Jamie Miller,Engineering,Fall 2024,7,2.286
+S100010,Quinn Robinson,Engineering,Fall 2025,7,2.286
+S100030,Avery Brown,Business,Summer 2025,7,2.286
+S100151,Harper Johnson,Business,Spring 2025,7,2.286
+S100065,Kendall Taylor,Business,Spring 2025,11,2.273
+S100421,Harper Brown,Education,Fall 2025,11,2.273
+S100252,Harper Thomas,Nursing,Spring 2025,14,2.214
+S100069,Alex Taylor,Psychology,Fall 2024,19,2.211
+S100308,Cameron Clark,Business,Summer 2025,10,2.2
+S100248,Emerson Wilson,Nursing,Fall 2025,15,2.2
+S100022,Emerson Robinson,Education,Spring 2025,11,2.182
+S100184,Jamie Davis,Psychology,Spring 2025,11,2.182
+S100164,Drew Taylor,Education,Summer 2025,14,2.143
+S100222,Hayden Jackson,Education,Spring 2025,7,2.143
+S100139,Jordan Thomas,Computer Science,Fall 2025,7,2.143
+S100324,Quinn Garcia,Education,Spring 2025,7,2.143
+S100472,Emerson Harris,Business,Fall 2025,15,2.133
+S100320,Kendall Smith,Education,Spring 2025,10,2.1
+S100146,Harper Johnson,Engineering,Fall 2025,10,2.1
+S100359,Harper White,Business,Fall 2024,15,2.067
+S100285,Casey Davis,Psychology,Fall 2025,3,2.0
+S100093,Drew Martin,Computer Science,Spring 2025,3,2.0
+S100440,Reese Lewis,Psychology,Summer 2025,3,2.0
+S100440,Reese Lewis,Psychology,Fall 2025,3,2.0
+S100435,Hayden Brown,Education,Summer 2025,3,2.0
+S100435,Hayden Brown,Education,Fall 2024,4,2.0
+S100434,Skyler Wilson,Engineering,Summer 2025,4,2.0
+S100300,Avery Thompson,Computer Science,Spring 2025,4,2.0
+S100296,Alex Jackson,Education,Spring 2025,3,2.0
+S100294,Alex Clark,Education,Spring 2025,3,2.0
+S100292,Quinn Harris,Education,Fall 2025,8,2.0
+S100199,Hayden Lewis,Education,Summer 2025,4,2.0
+S100198,Rowan Robinson,Computer Science,Spring 2025,4,2.0
+S100305,Riley Martin,Psychology,Spring 2025,4,2.0
+S100304,Jamie White,Nursing,Fall 2024,7,2.0
+S100303,Alex White,Computer Science,Summer 2025,3,2.0
+S100206,Morgan White,Computer Science,Fall 2024,4,2.0
+S100203,Riley Thomas,Engineering,Summer 2025,3,2.0
+S100203,Riley Thomas,Engineering,Fall 2025,7,2.0
+S100195,Rowan Smith,Nursing,Summer 2025,10,2.0
+S100290,Kendall Martin,Engineering,Spring 2025,3,2.0
+S100290,Kendall Martin,Engineering,Fall 2024,3,2.0
+S100289,Hayden Thomas,Nursing,Fall 2025,6,2.0
+S100287,Casey Wilson,Engineering,Summer 2025,4,2.0
+S100302,Hayden Thompson,Computer Science,Fall 2025,4,2.0
+S100192,Kendall Davis,Engineering,Spring 2025,3,2.0
+S100189,Taylor Davis,Computer Science,Fall 2024,3,2.0
+S100187,Hayden Robinson,Psychology,Summer 2025,4,2.0
+S100178,Jamie Wilson,Engineering,Fall 2024,4,2.0
+S100177,Harper Wilson,Nursing,Fall 2025,3,2.0
+S100314,Jamie Wilson,Education,Summer 2025,4,2.0
+S100309,Skyler Garcia,Engineering,Fall 2025,3,2.0
+S100432,Emerson Johnson,Business,Spring 2025,6,2.0
+S100431,Reese Anderson,Computer Science,Summer 2025,3,2.0
+S100430,Jordan Moore,Business,Spring 2025,4,2.0
+S100429,Logan Anderson,Engineering,Fall 2024,3,2.0
+S100019,Morgan Jackson,Education,Fall 2024,4,2.0
+S100322,Taylor Smith,Business,Spring 2025,4,2.0
+S100322,Taylor Smith,Business,Fall 2025,3,2.0
+S100320,Kendall Smith,Education,Fall 2024,4,2.0
+S100200,Casey Moore,Psychology,Spring 2025,6,2.0
+S100047,Logan White,Nursing,Summer 2025,4,2.0
+S100046,Jamie Wilson,Computer Science,Spring 2025,3,2.0
+S100278,Parker Martinez,Engineering,Fall 2025,9,2.0
+S100275,Emerson Miller,Education,Summer 2025,4,2.0
+S100275,Emerson Miller,Education,Fall 2025,4,2.0
+S100284,Kendall Johnson,Business,Summer 2025,4,2.0
+S100284,Kendall Johnson,Business,Fall 2025,4,2.0
+S100284,Kendall Johnson,Business,Fall 2024,4,2.0
+S100281,Taylor Anderson,Nursing,Summer 2025,3,2.0
+S100279,Logan Moore,Psychology,Summer 2025,4,2.0
+S100050,Avery Robinson,Engineering,Spring 2025,8,2.0
+S100184,Jamie Davis,Psychology,Fall 2025,4,2.0
+S100183,Jordan Garcia,Nursing,Fall 2024,6,2.0
+S100179,Parker Martinez,Nursing,Summer 2025,4,2.0
+S100017,Jamie Brown,Psychology,Fall 2024,3,2.0
+S100014,Riley Harris,Computer Science,Spring 2025,7,2.0
+S100014,Riley Harris,Computer Science,Fall 2024,8,2.0
+S100013,Parker Garcia,Psychology,Summer 2025,3,2.0
+S100109,Logan Harris,Education,Spring 2025,4,2.0
+S100105,Logan Wilson,Psychology,Summer 2025,6,2.0
+S100105,Logan Wilson,Psychology,Spring 2025,3,2.0
+S100175,Kendall Davis,Computer Science,Spring 2025,7,2.0
+S100174,Morgan Brown,Business,Fall 2024,3,2.0
+S100045,Quinn Clark,Nursing,Fall 2024,6,2.0
+S100044,Parker Johnson,Engineering,Fall 2024,4,2.0
+S100040,Kendall Moore,Computer Science,Spring 2025,3,2.0
+S100039,Cameron Taylor,Business,Fall 2024,4,2.0
+S100326,Avery Davis,Psychology,Spring 2025,4,2.0
+S100326,Avery Davis,Psychology,Fall 2025,6,2.0
+S100332,Morgan Miller,Nursing,Fall 2025,3,2.0
+S100330,Rowan Miller,Computer Science,Spring 2025,4,2.0
+S100328,Skyler Wilson,Psychology,Summer 2025,4,2.0
+S100327,Logan Brown,Engineering,Fall 2025,3,2.0
+S100271,Kendall Lewis,Computer Science,Summer 2025,3,2.0
+S100266,Drew Martin,Computer Science,Summer 2025,3,2.0
+S100266,Drew Martin,Computer Science,Spring 2025,7,2.0
+S100265,Avery Miller,Nursing,Summer 2025,4,2.0
+S100067,Reese Harris,Business,Spring 2025,8,2.0
+S100201,Riley Miller,Nursing,Fall 2025,3,2.0
+S100201,Riley Miller,Nursing,Fall 2024,3,2.0
+S100045,Quinn Clark,Nursing,Summer 2025,3,2.0
+S100071,Drew Brown,Psychology,Summer 2025,8,2.0
+S100421,Harper Brown,Education,Fall 2024,4,2.0
+S100419,Reese Clark,Psychology,Fall 2024,7,2.0
+S100417,Emerson Anderson,Computer Science,Spring 2025,3,2.0
+S100417,Emerson Anderson,Computer Science,Fall 2024,3,2.0
+S100168,Riley Martin,Education,Fall 2024,4,2.0
+S100167,Rowan Anderson,Nursing,Spring 2025,7,2.0
+S100165,Casey Jackson,Nursing,Summer 2025,3,2.0
+S100341,Skyler Smith,Engineering,Fall 2025,8,2.0
+S100341,Skyler Smith,Engineering,Fall 2024,4,2.0
+S100340,Harper Brown,Nursing,Spring 2025,3,2.0
+S100339,Morgan Anderson,Education,Summer 2025,4,2.0
+S100336,Cameron White,Business,Summer 2025,3,2.0
+S100336,Cameron White,Business,Fall 2025,3,2.0
+S100348,Rowan Martin,Computer Science,Fall 2024,3,2.0
+S100347,Morgan Harris,Business,Spring 2025,3,2.0
+S100346,Hayden Thompson,Nursing,Fall 2025,4,2.0
+S100344,Taylor Martinez,Computer Science,Fall 2024,8,2.0
+S100342,Rowan Robinson,Education,Fall 2024,4,2.0
+S100171,Alex Robinson,Nursing,Fall 2024,9,2.0
+S100169,Kendall Anderson,Computer Science,Summer 2025,4,2.0
+S100169,Kendall Anderson,Computer Science,Fall 2025,4,2.0
+S100168,Riley Martin,Education,Summer 2025,3,2.0
+S100164,Drew Taylor,Education,Fall 2024,3,2.0
+S100163,Kendall Wilson,Psychology,Summer 2025,4,2.0
+S100163,Kendall Wilson,Psychology,Spring 2025,4,2.0
+S100145,Riley Johnson,Business,Spring 2025,4,2.0
+S100160,Alex Martin,Engineering,Spring 2025,4,2.0
+S100159,Jamie Johnson,Psychology,Summer 2025,4,2.0
+S100159,Jamie Johnson,Psychology,Fall 2025,3,2.0
+S100034,Rowan Wilson,Psychology,Spring 2025,6,2.0
+S100216,Cameron Robinson,Business,Summer 2025,3,2.0
+S100214,Taylor Taylor,Business,Fall 2024,4,2.0
+S100446,Logan Martin,Engineering,Summer 2025,3,2.0
+S100444,Cameron Taylor,Psychology,Spring 2025,3,2.0
+S100444,Cameron Taylor,Psychology,Fall 2024,7,2.0
+S100442,Emerson Brown,Engineering,Summer 2025,4,2.0
+S100442,Emerson Brown,Engineering,Fall 2025,4,2.0
+S100098,Avery Clark,Business,Summer 2025,3,2.0
+S100098,Avery Clark,Business,Spring 2025,4,2.0
+S100098,Avery Clark,Business,Fall 2025,4,2.0
+S100098,Avery Clark,Business,Fall 2024,18,2.0
+S100032,Emerson Jackson,Engineering,Summer 2025,7,2.0
+S100086,Logan Robinson,Engineering,Fall 2024,7,2.0
+S100349,Casey Harris,Psychology,Fall 2024,3,2.0
+S100026,Rowan Clark,Nursing,Fall 2024,4,2.0
+S100244,Reese Wilson,Engineering,Fall 2024,3,2.0
+S100025,Reese Lewis,Education,Spring 2025,3,2.0
+S100243,Alex Anderson,Business,Fall 2025,4,2.0
+S100154,Jamie Taylor,Engineering,Summer 2025,4,2.0
+S100053,Skyler White,Psychology,Fall 2025,3,2.0
+S100052,Skyler Harris,Education,Summer 2025,4,2.0
+S100052,Skyler Harris,Education,Spring 2025,4,2.0
+S100207,Jordan Thompson,Engineering,Spring 2025,3,2.0
+S100207,Jordan Thompson,Engineering,Fall 2024,3,2.0
+S100241,Skyler Anderson,Business,Spring 2025,3,2.0
+S100055,Casey Martinez,Psychology,Fall 2025,4,2.0
+S100153,Skyler Martinez,Computer Science,Spring 2025,3,2.0
+S100356,Taylor Taylor,Computer Science,Fall 2025,4,2.0
+S100355,Jamie Moore,Engineering,Fall 2025,3,2.0
+S100351,Parker Lewis,Education,Spring 2025,8,2.0
+S100037,Kendall Moore,Engineering,Summer 2025,8,2.0
+S100165,Casey Jackson,Nursing,Fall 2025,4,2.0
+S100241,Skyler Anderson,Business,Fall 2025,4,2.0
+S100361,Logan Thomas,Engineering,Spring 2025,7,2.0
+S100360,Jamie Garcia,Business,Fall 2025,3,2.0
+S100359,Harper White,Business,Spring 2025,12,2.0
+S100010,Quinn Robinson,Engineering,Fall 2024,7,2.0
+S100357,Emerson Moore,Computer Science,Summer 2025,3,2.0
+S100158,Reese Martin,Business,Spring 2025,3,2.0
+S100156,Avery Taylor,Engineering,Summer 2025,10,2.0
+S100156,Avery Taylor,Engineering,Fall 2024,3,2.0
+S100019,Morgan Jackson,Education,Summer 2025,4,2.0
+S100019,Morgan Jackson,Education,Fall 2025,11,2.0
+S100406,Taylor White,Engineering,Spring 2025,6,2.0
+S100406,Taylor White,Engineering,Fall 2024,3,2.0
+S100125,Kendall Garcia,Education,Fall 2024,3,2.0
+S100124,Morgan Smith,Business,Fall 2025,4,2.0
+S100123,Emerson Robinson,Nursing,Summer 2025,8,2.0
+S100121,Parker Martin,Education,Spring 2025,3,2.0
+S100371,Avery Thompson,Engineering,Fall 2025,9,2.0
+S100371,Avery Thompson,Engineering,Fall 2024,8,2.0
+S100250,Riley Johnson,Nursing,Summer 2025,4,2.0
+S100001,Parker Moore,Psychology,Fall 2024,4,2.0
+S100246,Harper Thomas,Engineering,Summer 2025,4,2.0
+S100246,Harper Thomas,Engineering,Fall 2025,3,2.0
+S100244,Reese Wilson,Engineering,Spring 2025,3,2.0
+S100008,Drew Lewis,Business,Spring 2025,4,2.0
+S100219,Riley Clark,Education,Summer 2025,3,2.0
+S100210,Reese Moore,Nursing,Summer 2025,4,2.0
+S100007,Quinn Moore,Education,Summer 2025,3,2.0
+S100367,Alex Martinez,Business,Fall 2025,4,2.0
+S100365,Parker Lewis,Business,Spring 2025,3,2.0
+S100364,Parker Thomas,Engineering,Fall 2024,3,2.0
+S100003,Morgan Robinson,Computer Science,Fall 2024,3,2.0
+S100458,Skyler Harris,Business,Summer 2025,3,2.0
+S100091,Reese White,Engineering,Summer 2025,4,2.0
+S100402,Logan Martin,Engineering,Spring 2025,4,2.0
+S100402,Logan Martin,Engineering,Fall 2024,4,2.0
+S100401,Reese Thompson,Nursing,Summer 2025,3,2.0
+S100401,Reese Thompson,Nursing,Fall 2025,3,2.0
+S100401,Reese Thompson,Nursing,Fall 2024,7,2.0
+S100400,Alex Clark,Psychology,Summer 2025,4,2.0
+S100400,Alex Clark,Psychology,Fall 2025,6,2.0
+S100149,Avery Clark,Education,Fall 2024,3,2.0
+S100148,Morgan Clark,Engineering,Fall 2025,8,2.0
+S100146,Harper Johnson,Engineering,Spring 2025,4,2.0
+S100091,Reese White,Engineering,Fall 2025,4,2.0
+S100079,Morgan Jackson,Education,Fall 2024,4,2.0
+S100226,Skyler Wilson,Education,Spring 2025,4,2.0
+S100028,Jordan Moore,Psychology,Spring 2025,7,2.0
+S100371,Avery Thompson,Engineering,Summer 2025,3,2.0
+S100145,Riley Johnson,Business,Fall 2024,4,2.0
+S100237,Reese Robinson,Nursing,Summer 2025,3,2.0
+S100455,Riley Thompson,Business,Fall 2024,4,2.0
+S100454,Skyler Smith,Education,Summer 2025,8,2.0
+S100454,Skyler Smith,Education,Fall 2025,3,2.0
+S100453,Alex Taylor,Engineering,Fall 2024,3,2.0
+S100450,Parker Garcia,Computer Science,Fall 2025,4,2.0
+S100253,Taylor Moore,Education,Fall 2024,3,2.0
+S100385,Jamie Brown,Business,Fall 2024,3,2.0
+S100376,Reese Clark,Engineering,Fall 2025,3,2.0
+S100375,Cameron Moore,Business,Spring 2025,4,2.0
+S100373,Alex Johnson,Nursing,Summer 2025,8,2.0
+S100373,Alex Johnson,Nursing,Fall 2024,4,2.0
+S100031,Cameron Taylor,Psychology,Spring 2025,4,2.0
+S100153,Skyler Martinez,Computer Science,Fall 2024,4,2.0
+S100006,Alex Johnson,Business,Spring 2025,8,2.0
+S100151,Harper Johnson,Business,Fall 2025,3,2.0
+S100383,Parker Moore,Computer Science,Summer 2025,4,2.0
+S100381,Rowan Martin,Computer Science,Fall 2024,11,2.0
+S100379,Rowan Harris,Computer Science,Spring 2025,4,2.0
+S100078,Logan Garcia,Psychology,Spring 2025,4,2.0
+S100076,Drew Garcia,Education,Fall 2025,4,2.0
+S100219,Riley Clark,Education,Fall 2024,6,2.0
+S100469,Jamie Brown,Education,Fall 2024,3,2.0
+S100468,Jamie Taylor,Nursing,Summer 2025,3,2.0
+S100472,Emerson Harris,Business,Spring 2025,3,2.0
+S100287,Casey Wilson,Engineering,Fall 2024,3,2.0
+S100005,Hayden Smith,Engineering,Fall 2025,3,2.0
+S100004,Taylor Clark,Education,Summer 2025,10,2.0
+S100391,Morgan Wilson,Computer Science,Fall 2024,4,2.0
+S100390,Harper Anderson,Nursing,Fall 2024,4,2.0
+S100388,Logan Taylor,Computer Science,Fall 2024,4,2.0
+S100386,Kendall Miller,Engineering,Spring 2025,7,2.0
+S100141,Skyler Thompson,Nursing,Summer 2025,7,2.0
+S100285,Casey Davis,Psychology,Summer 2025,11,2.0
+S100138,Skyler Robinson,Nursing,Summer 2025,7,2.0
+S100137,Quinn Smith,Computer Science,Summer 2025,4,2.0
+S100061,Cameron Lewis,Engineering,Fall 2025,4,2.0
+S100473,Jordan Wilson,Education,Summer 2025,3,2.0
+S100394,Reese Garcia,Psychology,Summer 2025,4,2.0
+S100135,Logan Davis,Nursing,Spring 2025,4,2.0
+S100132,Cameron Taylor,Psychology,Summer 2025,4,2.0
+S100132,Cameron Taylor,Psychology,Spring 2025,8,2.0
+S100131,Cameron Garcia,Computer Science,Summer 2025,11,2.0
+S100130,Jordan Miller,Education,Fall 2024,3,2.0
+S100128,Logan Thompson,Computer Science,Fall 2025,4,2.0
+S100393,Rowan Miller,Education,Fall 2024,3,2.0
+S100237,Reese Robinson,Nursing,Fall 2025,4,2.0
+S100236,Jamie White,Computer Science,Spring 2025,3,2.0
+S100234,Reese Martinez,Education,Spring 2025,4,2.0
+S100232,Jamie Lewis,Engineering,Summer 2025,11,2.0
+S100228,Hayden Garcia,Computer Science,Spring 2025,7,2.0
+S100227,Parker Smith,Education,Spring 2025,7,2.0
+S100478,Kendall Davis,Computer Science,Spring 2025,4,2.0
+S100255,Quinn Davis,Computer Science,Fall 2024,15,1.933
+S100444,Cameron Taylor,Psychology,Summer 2025,14,1.929
+S100196,Rowan Wilson,Education,Spring 2025,11,1.909
+S100379,Rowan Harris,Computer Science,Fall 2024,7,1.857
+S100314,Jamie Wilson,Education,Spring 2025,7,1.857
+S100298,Hayden Robinson,Education,Fall 2025,7,1.857
+S100419,Reese Clark,Psychology,Fall 2025,7,1.857
+S100452,Skyler Clark,Education,Summer 2025,7,1.857
+S100389,Skyler Martinez,Business,Spring 2025,7,1.857
+S100143,Riley Smith,Psychology,Spring 2025,7,1.857
+S100439,Jordan Miller,Nursing,Fall 2024,7,1.857
+S100433,Avery Taylor,Nursing,Summer 2025,11,1.818
+S100459,Logan Johnson,Psychology,Fall 2024,11,1.818
+S100062,Emerson Martinez,Psychology,Spring 2025,10,1.8
+S100478,Kendall Davis,Computer Science,Summer 2025,14,1.786
+S100316,Jamie White,Education,Fall 2025,15,1.733
+S100360,Jamie Garcia,Business,Spring 2025,11,1.727
+S100415,Avery Martinez,Education,Fall 2025,7,1.714
+S100114,Jordan Brown,Education,Fall 2024,7,1.714
+S100337,Quinn Johnson,Nursing,Fall 2024,7,1.714
+S100350,Riley Martinez,Computer Science,Fall 2024,7,1.714
+S100467,Emerson Johnson,Psychology,Fall 2025,7,1.714
+S100464,Hayden Thompson,Education,Fall 2025,7,1.714
+S100088,Drew Lewis,Computer Science,Fall 2025,7,1.714
+S100276,Logan Martin,Education,Fall 2024,7,1.714
+S100457,Parker Miller,Psychology,Summer 2025,7,1.714
+S100207,Jordan Thompson,Engineering,Fall 2025,7,1.714
+S100213,Jamie Taylor,Nursing,Summer 2025,9,1.667
+S100219,Riley Clark,Education,Spring 2025,11,1.636
+S100172,Reese Brown,Education,Summer 2025,10,1.6
+S100455,Riley Thompson,Business,Fall 2025,7,1.571
+S100023,Morgan White,Nursing,Fall 2025,7,1.571
+S100329,Emerson Taylor,Nursing,Fall 2024,7,1.571
+S100397,Jordan Robinson,Education,Fall 2025,11,1.545
+S100276,Logan Martin,Education,Summer 2025,8,1.5
+S100430,Jordan Moore,Business,Summer 2025,8,1.5
+S100154,Jamie Taylor,Engineering,Fall 2025,8,1.5
+S100176,Parker Anderson,Psychology,Fall 2024,14,1.5
+S100432,Emerson Johnson,Business,Fall 2025,6,1.5
+S100115,Jordan White,Psychology,Summer 2025,8,1.5
+S100394,Reese Garcia,Psychology,Spring 2025,8,1.5
+S100075,Riley Robinson,Psychology,Summer 2025,8,1.5
+S100027,Quinn Johnson,Psychology,Summer 2025,6,1.5
+S100369,Avery Harris,Nursing,Fall 2024,8,1.5
+S100155,Quinn Thomas,Psychology,Spring 2025,8,1.5
+S100157,Cameron Davis,Education,Fall 2024,6,1.5
+S100365,Parker Lewis,Business,Summer 2025,6,1.5
+S100093,Drew Martin,Computer Science,Fall 2024,6,1.5
+S100296,Alex Jackson,Education,Summer 2025,6,1.5
+S100046,Jamie Wilson,Computer Science,Fall 2025,10,1.5
+S100243,Alex Anderson,Business,Fall 2024,6,1.5
+S100224,Harper Martinez,Education,Fall 2025,11,1.455
+S100016,Casey Wilson,Computer Science,Spring 2025,11,1.455
+S100334,Skyler Garcia,Psychology,Summer 2025,7,1.429
+S100170,Harper Martinez,Psychology,Summer 2025,7,1.429
+S100073,Harper Wilson,Nursing,Fall 2025,7,1.429
+S100405,Logan Brown,Psychology,Summer 2025,7,1.429
+S100461,Hayden Thomas,Psychology,Fall 2024,7,1.429
+S100184,Jamie Davis,Psychology,Summer 2025,7,1.429
+S100462,Jamie Brown,Psychology,Fall 2024,7,1.429
+S100343,Hayden Jackson,Nursing,Fall 2024,11,1.364
+S100461,Hayden Thomas,Psychology,Fall 2025,10,1.3
+S100253,Taylor Moore,Education,Fall 2025,11,1.182
+S100364,Parker Thomas,Engineering,Summer 2025,7,1.143
+S100003,Morgan Robinson,Computer Science,Fall 2025,7,1.143
+S100406,Taylor White,Engineering,Summer 2025,7,1.143
+S100471,Alex Robinson,Nursing,Fall 2024,11,1.091
+S100001,Parker Moore,Psychology,Fall 2025,8,1.0
+S100462,Jamie Brown,Psychology,Summer 2025,4,1.0
+S100457,Parker Miller,Psychology,Fall 2024,4,1.0
+S100232,Jamie Lewis,Engineering,Fall 2024,4,1.0
+S100286,Avery White,Computer Science,Fall 2025,3,1.0
+S100460,Logan Jackson,Nursing,Spring 2025,3,1.0
+S100125,Kendall Garcia,Education,Summer 2025,4,1.0
+S100031,Cameron Taylor,Psychology,Fall 2024,4,1.0
+S100374,Reese Moore,Business,Fall 2025,3,1.0
+S100027,Quinn Johnson,Psychology,Fall 2025,4,1.0
+S100363,Quinn Jackson,Computer Science,Fall 2024,3,1.0
+S100079,Morgan Jackson,Education,Spring 2025,7,1.0
+S100378,Kendall Martinez,Business,Fall 2024,4,1.0
+S100145,Riley Johnson,Business,Fall 2025,4,1.0
+S100361,Logan Thomas,Engineering,Fall 2025,10,1.0
+S100367,Alex Martinez,Business,Spring 2025,3,1.0
+S100122,Avery Johnson,Education,Fall 2025,3,1.0
+S100124,Morgan Smith,Business,Spring 2025,4,1.0
+S100147,Avery White,Psychology,Fall 2025,4,1.0
+S100366,Parker Robinson,Engineering,Spring 2025,3,1.0
+S100402,Logan Martin,Engineering,Fall 2025,3,1.0
+S100155,Quinn Thomas,Psychology,Summer 2025,3,1.0
+S100157,Cameron Davis,Education,Fall 2025,4,1.0
+S100463,Riley Thomas,Psychology,Spring 2025,3,1.0
+S100224,Harper Martinez,Education,Fall 2024,4,1.0
+S100387,Quinn Wilson,Nursing,Spring 2025,4,1.0
+S100012,Emerson Clark,Engineering,Fall 2025,4,1.0
+S100012,Emerson Clark,Engineering,Spring 2025,4,1.0
+S100076,Drew Garcia,Education,Fall 2024,4,1.0
+S100447,Taylor Lewis,Psychology,Fall 2024,4,1.0
+S100053,Skyler White,Psychology,Fall 2024,3,1.0
+S100202,Hayden Garcia,Computer Science,Fall 2024,4,1.0
+S100277,Parker Moore,Nursing,Summer 2025,4,1.0
+S100270,Emerson Martinez,Engineering,Summer 2025,3,1.0
+S100440,Reese Lewis,Psychology,Fall 2024,4,1.0
+S100274,Hayden Robinson,Education,Summer 2025,4,1.0
+S100449,Jamie Lewis,Education,Fall 2024,3,1.0
+S100020,Rowan Lewis,Business,Fall 2025,4,1.0
+S100303,Alex White,Computer Science,Fall 2024,4,1.0
+S100179,Parker Martinez,Nursing,Fall 2024,3,1.0
+S100190,Kendall Smith,Business,Spring 2025,4,1.0
+S100311,Casey Martin,Psychology,Spring 2025,6,1.0
+S100074,Casey Jackson,Education,Fall 2024,3,1.0
+S100072,Reese Martinez,Computer Science,Summer 2025,3,1.0
+S100354,Skyler Taylor,Education,Summer 2025,4,1.0
+S100344,Taylor Martinez,Computer Science,Summer 2025,3,1.0
+S100414,Harper Lewis,Psychology,Summer 2025,3,1.0
+S100013,Parker Garcia,Psychology,Spring 2025,4,1.0
+S100072,Reese Martinez,Computer Science,Fall 2024,11,1.0
+S100419,Reese Clark,Psychology,Summer 2025,4,1.0
+S100342,Rowan Robinson,Education,Summer 2025,4,1.0
+S100407,Logan Johnson,Business,Fall 2025,4,1.0
+S100351,Parker Lewis,Education,Fall 2024,3,1.0
+S100033,Riley Jackson,Business,Spring 2025,3,1.0
+S100353,Emerson Harris,Education,Summer 2025,4,1.0
+S100040,Kendall Moore,Computer Science,Fall 2024,4,1.0
+S100105,Logan Wilson,Psychology,Fall 2025,4,1.0
+S100316,Jamie White,Education,Spring 2025,3,1.0
+S100099,Avery Garcia,Computer Science,Spring 2025,3,1.0
+S100428,Emerson Lewis,Nursing,Fall 2025,4,1.0
+S100018,Taylor White,Computer Science,Spring 2025,6,1.0
+S100323,Alex Moore,Psychology,Fall 2024,3,1.0
+S100317,Parker Harris,Engineering,Fall 2025,3,1.0
+S100082,Skyler Johnson,Psychology,Fall 2025,4,1.0
+S100310,Taylor Harris,Business,Fall 2024,3,1.0
+S100198,Rowan Robinson,Computer Science,Fall 2024,4,1.0
+S100217,Jamie Garcia,Engineering,Fall 2024,3,1.0
+S100261,Cameron Thompson,Education,Fall 2025,3,1.0
+S100286,Avery White,Computer Science,Summer 2025,3,1.0
+S100223,Jamie Harris,Business,Spring 2025,4,1.0
+S100437,Casey Taylor,Engineering,Fall 2025,4,1.0
+S100301,Avery Taylor,Business,Fall 2024,6,1.0
+S100231,Hayden Johnson,Computer Science,Summer 2025,11,0.909
+S100242,Cameron Robinson,Business,Spring 2025,10,0.9
+S100307,Kendall Garcia,Computer Science,Summer 2025,7,0.857
+S100329,Emerson Taylor,Nursing,Fall 2025,7,0.857
+S100469,Jamie Brown,Education,Fall 2025,7,0.857
+S100087,Riley Taylor,Nursing,Summer 2025,9,0.667
+S100237,Reese Robinson,Nursing,Fall 2024,8,0.5
+S100142,Drew Martinez,Nursing,Summer 2025,6,0.5
+S100086,Logan Robinson,Engineering,Spring 2025,4,0.0
+S100006,Alex Johnson,Business,Fall 2025,4,0.0
+S100130,Jordan Miller,Education,Summer 2025,4,0.0
+S100393,Rowan Miller,Education,Spring 2025,3,0.0
+S100397,Jordan Robinson,Education,Fall 2024,4,0.0
+S100398,Reese Davis,Computer Science,Summer 2025,3,0.0
+S100145,Riley Johnson,Business,Summer 2025,3,0.0
+S100019,Morgan Jackson,Education,Spring 2025,4,0.0
+S100367,Alex Martinez,Business,Summer 2025,4,0.0
+S100121,Parker Martin,Education,Fall 2025,4,0.0
+S100148,Morgan Clark,Engineering,Summer 2025,4,0.0
+S100384,Morgan Wilson,Nursing,Fall 2025,4,0.0
+S100182,Hayden Taylor,Education,Fall 2025,4,0.0
+S100425,Riley Robinson,Psychology,Fall 2025,4,0.0
+S100175,Kendall Davis,Computer Science,Summer 2025,3,0.0
+S100332,Morgan Miller,Nursing,Summer 2025,3,0.0
+S100034,Rowan Wilson,Psychology,Fall 2025,4,0.0
+S100165,Casey Jackson,Nursing,Spring 2025,4,0.0
+S100112,Rowan Harris,Nursing,Summer 2025,4,0.0
+S100069,Alex Taylor,Psychology,Summer 2025,4,0.0
+S100335,Reese Clark,Psychology,Summer 2025,3,0.0
+S100315,Emerson Thomas,Education,Summer 2025,4,0.0
+S100422,Quinn Wilson,Computer Science,Fall 2024,3,0.0
+S100080,Reese Moore,Education,Fall 2025,4,0.0
+S100105,Logan Wilson,Psychology,Fall 2024,4,0.0
+S100174,Morgan Brown,Business,Summer 2025,3,0.0
+S100268,Avery Brown,Computer Science,Summer 2025,7,0.0
+S100434,Skyler Wilson,Engineering,Fall 2025,4,0.0
+S100275,Emerson Miller,Education,Fall 2024,3,0.0
+S100096,Jamie Garcia,Psychology,Spring 2025,3,0.0
+S100442,Emerson Brown,Engineering,Fall 2024,3,0.0
+S100054,Rowan Moore,Business,Spring 2025,3,0.0
+S100240,Riley Lewis,Psychology,Summer 2025,3,0.0
+S100061,Cameron Lewis,Engineering,Spring 2025,4,0.0
+S100222,Hayden Jackson,Education,Fall 2025,3,0.0
+S100241,Skyler Anderson,Business,Summer 2025,6,0.0
+S100229,Drew Robinson,Nursing,Fall 2025,4,0.0
+S100002,Avery Davis,Computer Science,Spring 2025,4,0.0
+S100000,Morgan Garcia,Education,Summer 2025,4,0.0

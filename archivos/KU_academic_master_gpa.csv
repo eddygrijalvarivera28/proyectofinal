@@ -1,0 +1,1202 @@
+Student_ID,Academic_Term,GPA,Student_Name,Major,Campus
+S100000,Fall 2024,4.0,Morgan Garcia,Education,Miami
+S100027,Fall 2024,4.0,Quinn Johnson,Psychology,Online
+S100029,Fall 2024,4.0,Reese Johnson,Psychology,Miami
+S100032,Fall 2024,4.0,Emerson Jackson,Engineering,Tampa
+S100068,Fall 2024,4.0,Riley Martin,Engineering,Miami
+S100106,Fall 2024,4.0,Kendall Davis,Education,Orlando
+S100112,Fall 2024,4.0,Rowan Harris,Nursing,Tampa
+S100136,Fall 2024,4.0,Quinn Anderson,Computer Science,Orlando
+S100148,Fall 2024,4.0,Morgan Clark,Engineering,Online
+S100155,Fall 2024,4.0,Quinn Thomas,Psychology,Tampa
+S100159,Fall 2024,4.0,Jamie Johnson,Psychology,Online
+S100172,Fall 2024,4.0,Reese Brown,Education,Tampa
+S100191,Fall 2024,4.0,Rowan Clark,Psychology,Online
+S100192,Fall 2024,4.0,Kendall Davis,Engineering,Miami
+S100196,Fall 2024,4.0,Rowan Wilson,Education,Orlando
+S100209,Fall 2024,4.0,Emerson Jackson,Psychology,Fort Lauderdale
+S100216,Fall 2024,4.0,Cameron Robinson,Business,Orlando
+S100221,Fall 2024,4.0,Morgan Lewis,Education,Miami
+S100227,Fall 2024,4.0,Parker Smith,Education,Tampa
+S100249,Fall 2024,4.0,Drew Thompson,Business,Fort Lauderdale
+S100250,Fall 2024,4.0,Riley Johnson,Nursing,Orlando
+S100257,Fall 2024,4.0,Avery Thompson,Computer Science,Tampa
+S100266,Fall 2024,4.0,Drew Martin,Computer Science,Fort Lauderdale
+S100269,Fall 2024,4.0,Emerson Davis,Nursing,Online
+S100281,Fall 2024,4.0,Taylor Anderson,Nursing,Tampa
+S100291,Fall 2024,4.0,Hayden Smith,Business,Miami
+S100334,Fall 2024,4.0,Skyler Garcia,Psychology,Online
+S100358,Fall 2024,4.0,Emerson Clark,Nursing,Miami
+S100383,Fall 2024,4.0,Parker Moore,Computer Science,Fort Lauderdale
+S100387,Fall 2024,4.0,Quinn Wilson,Nursing,Orlando
+S100392,Fall 2024,4.0,Reese Moore,Business,Online
+S100407,Fall 2024,4.0,Logan Johnson,Business,Online
+S100431,Fall 2024,4.0,Reese Anderson,Computer Science,Miami
+S100446,Fall 2024,4.0,Logan Martin,Engineering,Tampa
+S100458,Fall 2024,4.0,Skyler Harris,Business,Fort Lauderdale
+S100475,Fall 2024,4.0,Harper Thompson,Computer Science,Orlando
+S100267,Fall 2024,3.5714285714285716,Jordan Robinson,Psychology,Orlando
+S100355,Fall 2024,3.5714285714285716,Jamie Moore,Engineering,Orlando
+S100372,Fall 2024,3.5714285714285716,Logan Martin,Computer Science,Fort Lauderdale
+S100188,Fall 2024,3.5,Alex Brown,Psychology,Fort Lauderdale
+S100213,Fall 2024,3.5,Jamie Taylor,Nursing,Fort Lauderdale
+S100377,Fall 2024,3.5,Rowan Thompson,Nursing,Orlando
+S100050,Fall 2024,3.4285714285714284,Avery Robinson,Engineering,Online
+S100360,Fall 2024,3.4285714285714284,Jamie Garcia,Business,Tampa
+S100400,Fall 2024,3.4285714285714284,Alex Clark,Psychology,Online
+S100427,Fall 2024,3.4285714285714284,Alex Harris,Computer Science,Orlando
+S100322,Fall 2024,3.3529411764705883,Taylor Smith,Business,Fort Lauderdale
+S100169,Fall 2024,3.3333333333333335,Kendall Anderson,Computer Science,Tampa
+S100137,Fall 2024,3.272727272727273,Quinn Smith,Computer Science,Tampa
+S100184,Fall 2024,3.142857142857143,Jamie Davis,Psychology,Tampa
+S100416,Fall 2024,3.142857142857143,Cameron Martin,Computer Science,Miami
+S100127,Fall 2024,3.1,Riley Harris,Psychology,Online
+S100273,Fall 2024,3.066666666666667,Harper Martinez,Nursing,Orlando
+S100166,Fall 2024,3.0588235294117645,Taylor Moore,Psychology,Miami
+S100002,Fall 2024,3.0,Avery Davis,Computer Science,Tampa
+S100013,Fall 2024,3.0,Parker Garcia,Psychology,Miami
+S100015,Fall 2024,3.0,Jamie Taylor,Business,Online
+S100024,Fall 2024,3.0,Taylor Robinson,Engineering,Tampa
+S100028,Fall 2024,3.0,Jordan Moore,Psychology,Orlando
+S100034,Fall 2024,3.0,Rowan Wilson,Psychology,Online
+S100038,Fall 2024,3.0,Riley Martin,Education,Miami
+S100043,Fall 2024,3.0,Jamie White,Nursing,Orlando
+S100046,Fall 2024,3.0,Jamie Wilson,Computer Science,Orlando
+S100048,Fall 2024,3.0,Emerson Davis,Education,Tampa
+S100049,Fall 2024,3.0,Parker Davis,Nursing,Tampa
+S100052,Fall 2024,3.0,Skyler Harris,Education,Miami
+S100054,Fall 2024,3.0,Rowan Moore,Business,Miami
+S100056,Fall 2024,3.0,Logan Johnson,Engineering,Online
+S100059,Fall 2024,3.0,Hayden Lewis,Nursing,Fort Lauderdale
+S100063,Fall 2024,3.0,Parker Robinson,Psychology,Orlando
+S100064,Fall 2024,3.0,Alex Brown,Nursing,Orlando
+S100077,Fall 2024,3.0,Harper Thomas,Psychology,Fort Lauderdale
+S100078,Fall 2024,3.0,Logan Garcia,Psychology,Fort Lauderdale
+S100082,Fall 2024,3.0,Skyler Johnson,Psychology,Orlando
+S100083,Fall 2024,3.0,Taylor Thompson,Computer Science,Tampa
+S100088,Fall 2024,3.0,Drew Lewis,Computer Science,Miami
+S100096,Fall 2024,3.0,Jamie Garcia,Psychology,Fort Lauderdale
+S100102,Fall 2024,3.0,Jordan Thomas,Nursing,Tampa
+S100113,Fall 2024,3.0,Hayden Martin,Education,Fort Lauderdale
+S100120,Fall 2024,3.0,Hayden Miller,Business,Fort Lauderdale
+S100123,Fall 2024,3.0,Emerson Robinson,Nursing,Miami
+S100126,Fall 2024,3.0,Taylor Moore,Computer Science,Orlando
+S100131,Fall 2024,3.0,Cameron Garcia,Computer Science,Fort Lauderdale
+S100141,Fall 2024,3.0,Skyler Thompson,Nursing,Miami
+S100142,Fall 2024,3.0,Drew Martinez,Nursing,Fort Lauderdale
+S100144,Fall 2024,3.0,Drew Johnson,Business,Tampa
+S100147,Fall 2024,3.0,Avery White,Psychology,Fort Lauderdale
+S100160,Fall 2024,3.0,Alex Martin,Engineering,Online
+S100182,Fall 2024,3.0,Hayden Taylor,Education,Orlando
+S100187,Fall 2024,3.0,Hayden Robinson,Psychology,Fort Lauderdale
+S100190,Fall 2024,3.0,Kendall Smith,Business,Orlando
+S100193,Fall 2024,3.0,Hayden Davis,Nursing,Orlando
+S100194,Fall 2024,3.0,Jordan Anderson,Engineering,Online
+S100195,Fall 2024,3.0,Rowan Smith,Nursing,Miami
+S100197,Fall 2024,3.0,Avery Brown,Nursing,Fort Lauderdale
+S100200,Fall 2024,3.0,Casey Moore,Psychology,Miami
+S100205,Fall 2024,3.0,Parker Miller,Education,Online
+S100218,Fall 2024,3.0,Morgan Taylor,Nursing,Fort Lauderdale
+S100220,Fall 2024,3.0,Parker Smith,Education,Tampa
+S100231,Fall 2024,3.0,Hayden Johnson,Computer Science,Fort Lauderdale
+S100240,Fall 2024,3.0,Riley Lewis,Psychology,Fort Lauderdale
+S100245,Fall 2024,3.0,Hayden Clark,Nursing,Miami
+S100248,Fall 2024,3.0,Emerson Wilson,Nursing,Online
+S100262,Fall 2024,3.0,Cameron Moore,Education,Online
+S100268,Fall 2024,3.0,Avery Brown,Computer Science,Tampa
+S100282,Fall 2024,3.0,Avery Taylor,Computer Science,Tampa
+S100289,Fall 2024,3.0,Hayden Thomas,Nursing,Online
+S100293,Fall 2024,3.0,Cameron Clark,Computer Science,Online
+S100294,Fall 2024,3.0,Alex Clark,Education,Tampa
+S100298,Fall 2024,3.0,Hayden Robinson,Education,Tampa
+S100305,Fall 2024,3.0,Riley Martin,Psychology,Orlando
+S100306,Fall 2024,3.0,Casey Lewis,Computer Science,Tampa
+S100308,Fall 2024,3.0,Cameron Clark,Business,Online
+S100313,Fall 2024,3.0,Parker White,Nursing,Tampa
+S100318,Fall 2024,3.0,Parker Johnson,Psychology,Online
+S100324,Fall 2024,3.0,Quinn Garcia,Education,Online
+S100325,Fall 2024,3.0,Harper Davis,Computer Science,Fort Lauderdale
+S100339,Fall 2024,3.0,Morgan Anderson,Education,Miami
+S100340,Fall 2024,3.0,Harper Brown,Nursing,Tampa
+S100353,Fall 2024,3.0,Emerson Harris,Education,Fort Lauderdale
+S100356,Fall 2024,3.0,Taylor Taylor,Computer Science,Tampa
+S100370,Fall 2024,3.0,Logan Robinson,Business,Tampa
+S100376,Fall 2024,3.0,Reese Clark,Engineering,Miami
+S100404,Fall 2024,3.0,Jordan Taylor,Computer Science,Orlando
+S100409,Fall 2024,3.0,Casey Davis,Computer Science,Tampa
+S100410,Fall 2024,3.0,Skyler Anderson,Education,Online
+S100414,Fall 2024,3.0,Harper Lewis,Psychology,Online
+S100423,Fall 2024,3.0,Parker Johnson,Psychology,Fort Lauderdale
+S100428,Fall 2024,3.0,Emerson Lewis,Nursing,Orlando
+S100433,Fall 2024,3.0,Avery Taylor,Nursing,Tampa
+S100434,Fall 2024,3.0,Skyler Wilson,Engineering,Miami
+S100441,Fall 2024,3.0,Skyler Anderson,Engineering,Orlando
+S100450,Fall 2024,3.0,Parker Garcia,Computer Science,Orlando
+S100456,Fall 2024,3.0,Drew Martin,Psychology,Orlando
+S100460,Fall 2024,3.0,Logan Jackson,Nursing,Fort Lauderdale
+S100465,Fall 2024,3.0,Reese White,Computer Science,Orlando
+S100467,Fall 2024,3.0,Emerson Johnson,Psychology,Orlando
+S100476,Fall 2024,3.0,Emerson Smith,Computer Science,Tampa
+S100087,Fall 2024,2.909090909090909,Riley Taylor,Nursing,Fort Lauderdale
+S100185,Fall 2024,2.909090909090909,Parker Miller,Nursing,Fort Lauderdale
+S100061,Fall 2024,2.857142857142857,Cameron Lewis,Engineering,Orlando
+S100222,Fall 2024,2.857142857142857,Hayden Jackson,Education,Fort Lauderdale
+S100238,Fall 2024,2.857142857142857,Casey Wilson,Nursing,Orlando
+S100081,Fall 2024,2.789473684210526,Jordan Moore,Business,Fort Lauderdale
+S100094,Fall 2024,2.727272727272727,Morgan Moore,Education,Miami
+S100319,Fall 2024,2.727272727272727,Logan Garcia,Engineering,Fort Lauderdale
+S100115,Fall 2024,2.7142857142857144,Jordan White,Psychology,Tampa
+S100425,Fall 2024,2.7142857142857144,Riley Robinson,Psychology,Miami
+S100405,Fall 2024,2.7,Logan Brown,Psychology,Fort Lauderdale
+S100382,Fall 2024,2.6666666666666665,Parker Anderson,Business,Online
+S100165,Fall 2024,2.6,Casey Jackson,Nursing,Tampa
+S100466,Fall 2024,2.6,Kendall Smith,Nursing,Miami
+S100065,Fall 2024,2.5714285714285716,Kendall Taylor,Business,Orlando
+S100346,Fall 2024,2.5714285714285716,Hayden Thompson,Nursing,Miami
+S100463,Fall 2024,2.5714285714285716,Riley Thomas,Psychology,Tampa
+S100464,Fall 2024,2.5714285714285716,Hayden Thompson,Education,Orlando
+S100352,Fall 2024,2.5384615384615383,Kendall Thompson,Business,Miami
+S100004,Fall 2024,2.5,Taylor Clark,Education,Miami
+S100055,Fall 2024,2.5,Casey Martinez,Psychology,Miami
+S100089,Fall 2024,2.5,Hayden Wilson,Psychology,Orlando
+S100090,Fall 2024,2.5,Kendall Wilson,Computer Science,Online
+S100124,Fall 2024,2.5,Morgan Smith,Business,Fort Lauderdale
+S100151,Fall 2024,2.5,Harper Johnson,Business,Orlando
+S100154,Fall 2024,2.5,Jamie Taylor,Engineering,Orlando
+S100234,Fall 2024,2.5,Reese Martinez,Education,Online
+S100252,Fall 2024,2.5,Harper Thomas,Nursing,Online
+S100259,Fall 2024,2.5,Emerson Harris,Business,Orlando
+S100272,Fall 2024,2.5,Jamie Martin,Psychology,Online
+S100277,Fall 2024,2.5,Parker Moore,Nursing,Tampa
+S100286,Fall 2024,2.5,Avery White,Computer Science,Orlando
+S100300,Fall 2024,2.5,Avery Thompson,Computer Science,Online
+S100307,Fall 2024,2.5,Kendall Garcia,Computer Science,Fort Lauderdale
+S100309,Fall 2024,2.5,Skyler Garcia,Engineering,Orlando
+S100368,Fall 2024,2.5,Quinn Johnson,Business,Orlando
+S100479,Fall 2024,2.5,Reese Martin,Psychology,Orlando
+S100288,Fall 2024,2.4285714285714284,Taylor Harris,Engineering,Online
+S100367,Fall 2024,2.4285714285714284,Alex Martinez,Business,Miami
+S100135,Fall 2024,2.4,Logan Davis,Nursing,Miami
+S100380,Fall 2024,2.4,Kendall Thomas,Education,Online
+S100436,Fall 2024,2.3636363636363638,Kendall Moore,Engineering,Orlando
+S100092,Fall 2024,2.357142857142857,Rowan Martin,Psychology,Online
+S100161,Fall 2024,2.3333333333333335,Harper Clark,Business,Tampa
+S100285,Fall 2024,2.3076923076923075,Casey Davis,Psychology,Miami
+S100403,Fall 2024,2.2857142857142856,Jamie Miller,Engineering,Tampa
+S100069,Fall 2024,2.210526315789474,Alex Taylor,Psychology,Miami
+S100359,Fall 2024,2.066666666666667,Harper White,Business,Orlando
+S100001,Fall 2024,2.0,Parker Moore,Psychology,Orlando
+S100003,Fall 2024,2.0,Morgan Robinson,Computer Science,Online
+S100010,Fall 2024,2.0,Quinn Robinson,Engineering,Fort Lauderdale
+S100014,Fall 2024,2.0,Riley Harris,Computer Science,Orlando
+S100017,Fall 2024,2.0,Jamie Brown,Psychology,Orlando
+S100019,Fall 2024,2.0,Morgan Jackson,Education,Online
+S100026,Fall 2024,2.0,Rowan Clark,Nursing,Orlando
+S100039,Fall 2024,2.0,Cameron Taylor,Business,Online
+S100044,Fall 2024,2.0,Parker Johnson,Engineering,Orlando
+S100045,Fall 2024,2.0,Quinn Clark,Nursing,Orlando
+S100079,Fall 2024,2.0,Morgan Jackson,Education,Online
+S100086,Fall 2024,2.0,Logan Robinson,Engineering,Orlando
+S100098,Fall 2024,2.0,Avery Clark,Business,Miami
+S100125,Fall 2024,2.0,Kendall Garcia,Education,Miami
+S100130,Fall 2024,2.0,Jordan Miller,Education,Fort Lauderdale
+S100145,Fall 2024,2.0,Riley Johnson,Business,Fort Lauderdale
+S100149,Fall 2024,2.0,Avery Clark,Education,Miami
+S100153,Fall 2024,2.0,Skyler Martinez,Computer Science,Tampa
+S100156,Fall 2024,2.0,Avery Taylor,Engineering,Miami
+S100164,Fall 2024,2.0,Drew Taylor,Education,Tampa
+S100168,Fall 2024,2.0,Riley Martin,Education,Orlando
+S100171,Fall 2024,2.0,Alex Robinson,Nursing,Online
+S100174,Fall 2024,2.0,Morgan Brown,Business,Tampa
+S100178,Fall 2024,2.0,Jamie Wilson,Engineering,Online
+S100183,Fall 2024,2.0,Jordan Garcia,Nursing,Orlando
+S100189,Fall 2024,2.0,Taylor Davis,Computer Science,Orlando
+S100201,Fall 2024,2.0,Riley Miller,Nursing,Orlando
+S100206,Fall 2024,2.0,Morgan White,Computer Science,Online
+S100207,Fall 2024,2.0,Jordan Thompson,Engineering,Online
+S100214,Fall 2024,2.0,Taylor Taylor,Business,Online
+S100219,Fall 2024,2.0,Riley Clark,Education,Online
+S100244,Fall 2024,2.0,Reese Wilson,Engineering,Orlando
+S100253,Fall 2024,2.0,Taylor Moore,Education,Tampa
+S100284,Fall 2024,2.0,Kendall Johnson,Business,Tampa
+S100287,Fall 2024,2.0,Casey Wilson,Engineering,Miami
+S100290,Fall 2024,2.0,Kendall Martin,Engineering,Online
+S100304,Fall 2024,2.0,Jamie White,Nursing,Fort Lauderdale
+S100320,Fall 2024,2.0,Kendall Smith,Education,Fort Lauderdale
+S100341,Fall 2024,2.0,Skyler Smith,Engineering,Orlando
+S100342,Fall 2024,2.0,Rowan Robinson,Education,Fort Lauderdale
+S100344,Fall 2024,2.0,Taylor Martinez,Computer Science,Tampa
+S100348,Fall 2024,2.0,Rowan Martin,Computer Science,Fort Lauderdale
+S100349,Fall 2024,2.0,Casey Harris,Psychology,Orlando
+S100364,Fall 2024,2.0,Parker Thomas,Engineering,Orlando
+S100371,Fall 2024,2.0,Avery Thompson,Engineering,Fort Lauderdale
+S100373,Fall 2024,2.0,Alex Johnson,Nursing,Online
+S100381,Fall 2024,2.0,Rowan Martin,Computer Science,Online
+S100385,Fall 2024,2.0,Jamie Brown,Business,Orlando
+S100388,Fall 2024,2.0,Logan Taylor,Computer Science,Miami
+S100390,Fall 2024,2.0,Harper Anderson,Nursing,Tampa
+S100391,Fall 2024,2.0,Morgan Wilson,Computer Science,Fort Lauderdale
+S100393,Fall 2024,2.0,Rowan Miller,Education,Fort Lauderdale
+S100401,Fall 2024,2.0,Reese Thompson,Nursing,Online
+S100402,Fall 2024,2.0,Logan Martin,Engineering,Tampa
+S100406,Fall 2024,2.0,Taylor White,Engineering,Miami
+S100417,Fall 2024,2.0,Emerson Anderson,Computer Science,Online
+S100419,Fall 2024,2.0,Reese Clark,Psychology,Online
+S100421,Fall 2024,2.0,Harper Brown,Education,Online
+S100429,Fall 2024,2.0,Logan Anderson,Engineering,Miami
+S100435,Fall 2024,2.0,Hayden Brown,Education,Online
+S100444,Fall 2024,2.0,Cameron Taylor,Psychology,Fort Lauderdale
+S100453,Fall 2024,2.0,Alex Taylor,Engineering,Tampa
+S100455,Fall 2024,2.0,Riley Thompson,Business,Orlando
+S100469,Fall 2024,2.0,Jamie Brown,Education,Miami
+S100255,Fall 2024,1.9333333333333333,Quinn Davis,Computer Science,Miami
+S100379,Fall 2024,1.8571428571428572,Rowan Harris,Computer Science,Tampa
+S100439,Fall 2024,1.8571428571428572,Jordan Miller,Nursing,Orlando
+S100459,Fall 2024,1.8181818181818181,Logan Johnson,Psychology,Online
+S100114,Fall 2024,1.7142857142857142,Jordan Brown,Education,Online
+S100276,Fall 2024,1.7142857142857142,Logan Martin,Education,Orlando
+S100337,Fall 2024,1.7142857142857142,Quinn Johnson,Nursing,Miami
+S100350,Fall 2024,1.7142857142857142,Riley Martinez,Computer Science,Miami
+S100329,Fall 2024,1.5714285714285714,Emerson Taylor,Nursing,Tampa
+S100093,Fall 2024,1.5,Drew Martin,Computer Science,Orlando
+S100157,Fall 2024,1.5,Cameron Davis,Education,Online
+S100176,Fall 2024,1.5,Parker Anderson,Psychology,Fort Lauderdale
+S100243,Fall 2024,1.5,Alex Anderson,Business,Miami
+S100369,Fall 2024,1.5,Avery Harris,Nursing,Fort Lauderdale
+S100461,Fall 2024,1.4285714285714286,Hayden Thomas,Psychology,Orlando
+S100462,Fall 2024,1.4285714285714286,Jamie Brown,Psychology,Miami
+S100343,Fall 2024,1.3636363636363635,Hayden Jackson,Nursing,Online
+S100471,Fall 2024,1.0909090909090908,Alex Robinson,Nursing,Fort Lauderdale
+S100031,Fall 2024,1.0,Cameron Taylor,Psychology,Online
+S100040,Fall 2024,1.0,Kendall Moore,Computer Science,Orlando
+S100053,Fall 2024,1.0,Skyler White,Psychology,Tampa
+S100072,Fall 2024,1.0,Reese Martinez,Computer Science,Online
+S100074,Fall 2024,1.0,Casey Jackson,Education,Miami
+S100076,Fall 2024,1.0,Drew Garcia,Education,Fort Lauderdale
+S100179,Fall 2024,1.0,Parker Martinez,Nursing,Fort Lauderdale
+S100198,Fall 2024,1.0,Rowan Robinson,Computer Science,Fort Lauderdale
+S100202,Fall 2024,1.0,Hayden Garcia,Computer Science,Orlando
+S100217,Fall 2024,1.0,Jamie Garcia,Engineering,Online
+S100224,Fall 2024,1.0,Harper Martinez,Education,Orlando
+S100232,Fall 2024,1.0,Jamie Lewis,Engineering,Online
+S100301,Fall 2024,1.0,Avery Taylor,Business,Tampa
+S100303,Fall 2024,1.0,Alex White,Computer Science,Miami
+S100310,Fall 2024,1.0,Taylor Harris,Business,Fort Lauderdale
+S100323,Fall 2024,1.0,Alex Moore,Psychology,Online
+S100351,Fall 2024,1.0,Parker Lewis,Education,Fort Lauderdale
+S100363,Fall 2024,1.0,Quinn Jackson,Computer Science,Miami
+S100378,Fall 2024,1.0,Kendall Martinez,Business,Tampa
+S100440,Fall 2024,1.0,Reese Lewis,Psychology,Online
+S100447,Fall 2024,1.0,Taylor Lewis,Psychology,Miami
+S100449,Fall 2024,1.0,Jamie Lewis,Education,Miami
+S100457,Fall 2024,1.0,Parker Miller,Psychology,Online
+S100237,Fall 2024,0.5,Reese Robinson,Nursing,Orlando
+S100105,Fall 2024,0.0,Logan Wilson,Psychology,Orlando
+S100275,Fall 2024,0.0,Emerson Miller,Education,Orlando
+S100397,Fall 2024,0.0,Jordan Robinson,Education,Online
+S100422,Fall 2024,0.0,Quinn Wilson,Computer Science,Miami
+S100442,Fall 2024,0.0,Emerson Brown,Engineering,Tampa
+S100002,Fall 2025,4.0,Avery Davis,Computer Science,Tampa
+S100015,Fall 2025,4.0,Jamie Taylor,Business,Online
+S100047,Fall 2025,4.0,Logan White,Nursing,Miami
+S100048,Fall 2025,4.0,Emerson Davis,Education,Tampa
+S100051,Fall 2025,4.0,Kendall Taylor,Engineering,Fort Lauderdale
+S100058,Fall 2025,4.0,Casey Miller,Nursing,Fort Lauderdale
+S100071,Fall 2025,4.0,Drew Brown,Psychology,Tampa
+S100074,Fall 2025,4.0,Casey Jackson,Education,Miami
+S100075,Fall 2025,4.0,Riley Robinson,Psychology,Orlando
+S100077,Fall 2025,4.0,Harper Thomas,Psychology,Fort Lauderdale
+S100078,Fall 2025,4.0,Logan Garcia,Psychology,Fort Lauderdale
+S100086,Fall 2025,4.0,Logan Robinson,Engineering,Orlando
+S100090,Fall 2025,4.0,Kendall Wilson,Computer Science,Online
+S100099,Fall 2025,4.0,Avery Garcia,Computer Science,Miami
+S100101,Fall 2025,4.0,Avery Johnson,Nursing,Orlando
+S100113,Fall 2025,4.0,Hayden Martin,Education,Fort Lauderdale
+S100115,Fall 2025,4.0,Jordan White,Psychology,Tampa
+S100152,Fall 2025,4.0,Hayden Clark,Business,Orlando
+S100160,Fall 2025,4.0,Alex Martin,Engineering,Online
+S100167,Fall 2025,4.0,Rowan Anderson,Nursing,Tampa
+S100175,Fall 2025,4.0,Kendall Davis,Computer Science,Fort Lauderdale
+S100193,Fall 2025,4.0,Hayden Davis,Nursing,Orlando
+S100204,Fall 2025,4.0,Hayden Moore,Education,Miami
+S100217,Fall 2025,4.0,Jamie Garcia,Engineering,Online
+S100226,Fall 2025,4.0,Skyler Wilson,Education,Online
+S100234,Fall 2025,4.0,Reese Martinez,Education,Online
+S100235,Fall 2025,4.0,Reese Harris,Business,Tampa
+S100257,Fall 2025,4.0,Avery Thompson,Computer Science,Tampa
+S100283,Fall 2025,4.0,Jamie Thomas,Education,Tampa
+S100304,Fall 2025,4.0,Jamie White,Nursing,Fort Lauderdale
+S100313,Fall 2025,4.0,Parker White,Nursing,Tampa
+S100319,Fall 2025,4.0,Logan Garcia,Engineering,Fort Lauderdale
+S100321,Fall 2025,4.0,Rowan Moore,Education,Orlando
+S100323,Fall 2025,4.0,Alex Moore,Psychology,Online
+S100334,Fall 2025,4.0,Skyler Garcia,Psychology,Online
+S100340,Fall 2025,4.0,Harper Brown,Nursing,Tampa
+S100349,Fall 2025,4.0,Casey Harris,Psychology,Orlando
+S100359,Fall 2025,4.0,Harper White,Business,Orlando
+S100369,Fall 2025,4.0,Avery Harris,Nursing,Fort Lauderdale
+S100390,Fall 2025,4.0,Harper Anderson,Nursing,Tampa
+S100394,Fall 2025,4.0,Reese Garcia,Psychology,Miami
+S100396,Fall 2025,4.0,Parker Smith,Computer Science,Fort Lauderdale
+S100408,Fall 2025,4.0,Skyler Smith,Engineering,Orlando
+S100409,Fall 2025,4.0,Casey Davis,Computer Science,Tampa
+S100465,Fall 2025,4.0,Reese White,Computer Science,Orlando
+S100395,Fall 2025,3.727272727272727,Kendall Davis,Engineering,Miami
+S100044,Fall 2025,3.5714285714285716,Parker Johnson,Engineering,Orlando
+S100060,Fall 2025,3.5714285714285716,Taylor White,Engineering,Fort Lauderdale
+S100254,Fall 2025,3.5714285714285716,Reese Moore,Nursing,Orlando
+S100347,Fall 2025,3.5714285714285716,Morgan Harris,Business,Tampa
+S100414,Fall 2025,3.5714285714285716,Harper Lewis,Psychology,Online
+S100057,Fall 2025,3.5,Jordan Brown,Psychology,Tampa
+S100126,Fall 2025,3.5,Taylor Moore,Computer Science,Orlando
+S100262,Fall 2025,3.5,Cameron Moore,Education,Online
+S100282,Fall 2025,3.5,Avery Taylor,Computer Science,Tampa
+S100363,Fall 2025,3.5,Quinn Jackson,Computer Science,Miami
+S100366,Fall 2025,3.5,Parker Robinson,Engineering,Tampa
+S100150,Fall 2025,3.466666666666667,Harper Smith,Business,Fort Lauderdale
+S100097,Fall 2025,3.4285714285714284,Skyler Robinson,Education,Online
+S100345,Fall 2025,3.4285714285714284,Jamie Garcia,Psychology,Fort Lauderdale
+S100348,Fall 2025,3.4285714285714284,Rowan Martin,Computer Science,Fort Lauderdale
+S100350,Fall 2025,3.3333333333333335,Riley Martinez,Computer Science,Miami
+S100137,Fall 2025,3.3,Quinn Smith,Computer Science,Tampa
+S100035,Fall 2025,3.272727272727273,Parker Johnson,Business,Online
+S100299,Fall 2025,3.272727272727273,Kendall Lewis,Psychology,Tampa
+S100084,Fall 2025,3.2666666666666666,Taylor Robinson,Business,Online
+S100040,Fall 2025,3.2,Kendall Moore,Computer Science,Orlando
+S100161,Fall 2025,3.176470588235294,Harper Clark,Business,Tampa
+S100014,Fall 2025,3.142857142857143,Riley Harris,Computer Science,Orlando
+S100032,Fall 2025,3.142857142857143,Emerson Jackson,Engineering,Tampa
+S100179,Fall 2025,3.142857142857143,Parker Martinez,Nursing,Fort Lauderdale
+S100385,Fall 2025,3.090909090909091,Jamie Brown,Business,Orlando
+S100004,Fall 2025,3.0,Taylor Clark,Education,Miami
+S100008,Fall 2025,3.0,Drew Lewis,Business,Orlando
+S100009,Fall 2025,3.0,Alex Robinson,Nursing,Miami
+S100016,Fall 2025,3.0,Casey Wilson,Computer Science,Orlando
+S100024,Fall 2025,3.0,Taylor Robinson,Engineering,Tampa
+S100028,Fall 2025,3.0,Jordan Moore,Psychology,Orlando
+S100029,Fall 2025,3.0,Reese Johnson,Psychology,Miami
+S100037,Fall 2025,3.0,Kendall Moore,Engineering,Online
+S100038,Fall 2025,3.0,Riley Martin,Education,Miami
+S100041,Fall 2025,3.0,Jamie Smith,Nursing,Miami
+S100045,Fall 2025,3.0,Quinn Clark,Nursing,Orlando
+S100049,Fall 2025,3.0,Parker Davis,Nursing,Tampa
+S100063,Fall 2025,3.0,Parker Robinson,Psychology,Orlando
+S100064,Fall 2025,3.0,Alex Brown,Nursing,Orlando
+S100072,Fall 2025,3.0,Reese Martinez,Computer Science,Online
+S100083,Fall 2025,3.0,Taylor Thompson,Computer Science,Tampa
+S100085,Fall 2025,3.0,Casey Davis,Engineering,Miami
+S100087,Fall 2025,3.0,Riley Taylor,Nursing,Fort Lauderdale
+S100092,Fall 2025,3.0,Rowan Martin,Psychology,Online
+S100093,Fall 2025,3.0,Drew Martin,Computer Science,Orlando
+S100103,Fall 2025,3.0,Taylor Martinez,Engineering,Tampa
+S100110,Fall 2025,3.0,Quinn Brown,Engineering,Fort Lauderdale
+S100117,Fall 2025,3.0,Avery Wilson,Computer Science,Online
+S100123,Fall 2025,3.0,Emerson Robinson,Nursing,Miami
+S100125,Fall 2025,3.0,Kendall Garcia,Education,Miami
+S100130,Fall 2025,3.0,Jordan Miller,Education,Fort Lauderdale
+S100133,Fall 2025,3.0,Emerson Anderson,Business,Miami
+S100134,Fall 2025,3.0,Hayden Robinson,Education,Fort Lauderdale
+S100153,Fall 2025,3.0,Skyler Martinez,Computer Science,Tampa
+S100155,Fall 2025,3.0,Quinn Thomas,Psychology,Tampa
+S100162,Fall 2025,3.0,Morgan Johnson,Business,Orlando
+S100163,Fall 2025,3.0,Kendall Wilson,Psychology,Orlando
+S100170,Fall 2025,3.0,Harper Martinez,Psychology,Tampa
+S100189,Fall 2025,3.0,Taylor Davis,Computer Science,Orlando
+S100195,Fall 2025,3.0,Rowan Smith,Nursing,Miami
+S100196,Fall 2025,3.0,Rowan Wilson,Education,Orlando
+S100197,Fall 2025,3.0,Avery Brown,Nursing,Fort Lauderdale
+S100206,Fall 2025,3.0,Morgan White,Computer Science,Online
+S100208,Fall 2025,3.0,Avery Wilson,Education,Fort Lauderdale
+S100210,Fall 2025,3.0,Reese Moore,Nursing,Online
+S100218,Fall 2025,3.0,Morgan Taylor,Nursing,Fort Lauderdale
+S100220,Fall 2025,3.0,Parker Smith,Education,Tampa
+S100227,Fall 2025,3.0,Parker Smith,Education,Tampa
+S100232,Fall 2025,3.0,Jamie Lewis,Engineering,Online
+S100240,Fall 2025,3.0,Riley Lewis,Psychology,Fort Lauderdale
+S100247,Fall 2025,3.0,Emerson Martin,Engineering,Miami
+S100250,Fall 2025,3.0,Riley Johnson,Nursing,Orlando
+S100260,Fall 2025,3.0,Skyler Wilson,Education,Fort Lauderdale
+S100263,Fall 2025,3.0,Casey Garcia,Psychology,Miami
+S100265,Fall 2025,3.0,Avery Miller,Nursing,Online
+S100280,Fall 2025,3.0,Parker Martin,Education,Fort Lauderdale
+S100293,Fall 2025,3.0,Cameron Clark,Computer Science,Online
+S100301,Fall 2025,3.0,Avery Taylor,Business,Tampa
+S100305,Fall 2025,3.0,Riley Martin,Psychology,Orlando
+S100306,Fall 2025,3.0,Casey Lewis,Computer Science,Tampa
+S100311,Fall 2025,3.0,Casey Martin,Psychology,Tampa
+S100324,Fall 2025,3.0,Quinn Garcia,Education,Online
+S100339,Fall 2025,3.0,Morgan Anderson,Education,Miami
+S100344,Fall 2025,3.0,Taylor Martinez,Computer Science,Tampa
+S100351,Fall 2025,3.0,Parker Lewis,Education,Fort Lauderdale
+S100352,Fall 2025,3.0,Kendall Thompson,Business,Miami
+S100353,Fall 2025,3.0,Emerson Harris,Education,Fort Lauderdale
+S100357,Fall 2025,3.0,Emerson Moore,Computer Science,Fort Lauderdale
+S100358,Fall 2025,3.0,Emerson Clark,Nursing,Miami
+S100372,Fall 2025,3.0,Logan Martin,Computer Science,Fort Lauderdale
+S100373,Fall 2025,3.0,Alex Johnson,Nursing,Online
+S100375,Fall 2025,3.0,Cameron Moore,Business,Miami
+S100377,Fall 2025,3.0,Rowan Thompson,Nursing,Orlando
+S100379,Fall 2025,3.0,Rowan Harris,Computer Science,Tampa
+S100380,Fall 2025,3.0,Kendall Thomas,Education,Online
+S100387,Fall 2025,3.0,Quinn Wilson,Nursing,Orlando
+S100391,Fall 2025,3.0,Morgan Wilson,Computer Science,Fort Lauderdale
+S100406,Fall 2025,3.0,Taylor White,Engineering,Miami
+S100410,Fall 2025,3.0,Skyler Anderson,Education,Online
+S100411,Fall 2025,3.0,Taylor Moore,Education,Fort Lauderdale
+S100436,Fall 2025,3.0,Kendall Moore,Engineering,Orlando
+S100441,Fall 2025,3.0,Skyler Anderson,Engineering,Orlando
+S100444,Fall 2025,3.0,Cameron Taylor,Psychology,Fort Lauderdale
+S100463,Fall 2025,3.0,Riley Thomas,Psychology,Tampa
+S100466,Fall 2025,3.0,Kendall Smith,Nursing,Miami
+S100476,Fall 2025,3.0,Emerson Smith,Computer Science,Tampa
+S100477,Fall 2025,3.0,Quinn Taylor,Computer Science,Fort Lauderdale
+S100081,Fall 2025,2.9285714285714284,Jordan Moore,Business,Fort Lauderdale
+S100212,Fall 2025,2.909090909090909,Quinn White,Engineering,Miami
+S100202,Fall 2025,2.9,Hayden Garcia,Computer Science,Orlando
+S100030,Fall 2025,2.857142857142857,Avery Brown,Business,Orlando
+S100056,Fall 2025,2.857142857142857,Logan Johnson,Engineering,Online
+S100096,Fall 2025,2.857142857142857,Jamie Garcia,Psychology,Fort Lauderdale
+S100448,Fall 2025,2.857142857142857,Jordan Harris,Computer Science,Fort Lauderdale
+S100156,Fall 2025,2.8,Avery Taylor,Engineering,Miami
+S100107,Fall 2025,2.7857142857142856,Skyler Clark,Computer Science,Miami
+S100192,Fall 2025,2.727272727272727,Kendall Davis,Engineering,Miami
+S100449,Fall 2025,2.727272727272727,Jamie Lewis,Education,Miami
+S100089,Fall 2025,2.7,Hayden Wilson,Psychology,Orlando
+S100272,Fall 2025,2.7,Jamie Martin,Psychology,Online
+S100392,Fall 2025,2.7,Reese Moore,Business,Online
+S100111,Fall 2025,2.6666666666666665,Morgan Harris,Psychology,Tampa
+S100267,Fall 2025,2.6666666666666665,Jordan Robinson,Psychology,Orlando
+S100307,Fall 2025,2.6666666666666665,Kendall Garcia,Computer Science,Fort Lauderdale
+S100405,Fall 2025,2.6666666666666665,Logan Brown,Psychology,Fort Lauderdale
+S100211,Fall 2025,2.6470588235294117,Avery Garcia,Business,Online
+S100068,Fall 2025,2.6363636363636362,Riley Martin,Engineering,Miami
+S100416,Fall 2025,2.625,Cameron Martin,Computer Science,Miami
+S100069,Fall 2025,2.5714285714285716,Alex Taylor,Psychology,Miami
+S100230,Fall 2025,2.5714285714285716,Quinn Jackson,Psychology,Fort Lauderdale
+S100314,Fall 2025,2.5714285714285716,Jamie Wilson,Education,Orlando
+S100378,Fall 2025,2.5714285714285716,Kendall Martinez,Business,Tampa
+S100459,Fall 2025,2.5714285714285716,Logan Johnson,Psychology,Online
+S100109,Fall 2025,2.5,Logan Harris,Education,Fort Lauderdale
+S100120,Fall 2025,2.5,Hayden Miller,Business,Fort Lauderdale
+S100198,Fall 2025,2.5,Rowan Robinson,Computer Science,Fort Lauderdale
+S100205,Fall 2025,2.5,Parker Miller,Education,Online
+S100255,Fall 2025,2.5,Quinn Davis,Computer Science,Miami
+S100256,Fall 2025,2.5,Alex Smith,Psychology,Online
+S100328,Fall 2025,2.5,Skyler Wilson,Psychology,Online
+S100330,Fall 2025,2.5,Rowan Miller,Computer Science,Orlando
+S100343,Fall 2025,2.5,Hayden Jackson,Nursing,Online
+S100362,Fall 2025,2.5,Riley Thompson,Business,Orlando
+S100417,Fall 2025,2.5,Emerson Anderson,Computer Science,Online
+S100445,Fall 2025,2.5,Drew Robinson,Engineering,Tampa
+S100451,Fall 2025,2.5,Taylor Moore,Education,Tampa
+S100382,Fall 2025,2.4285714285714284,Parker Anderson,Business,Online
+S100438,Fall 2025,2.4285714285714284,Casey Johnson,Education,Miami
+S100209,Fall 2025,2.4,Emerson Jackson,Psychology,Fort Lauderdale
+S100474,Fall 2025,2.4,Drew Jackson,Psychology,Fort Lauderdale
+S100291,Fall 2025,2.3636363636363638,Hayden Smith,Business,Miami
+S100190,Fall 2025,2.3333333333333335,Kendall Smith,Business,Orlando
+S100288,Fall 2025,2.3,Taylor Harris,Engineering,Online
+S100010,Fall 2025,2.2857142857142856,Quinn Robinson,Engineering,Fort Lauderdale
+S100266,Fall 2025,2.2857142857142856,Drew Martin,Computer Science,Fort Lauderdale
+S100403,Fall 2025,2.2857142857142856,Jamie Miller,Engineering,Tampa
+S100421,Fall 2025,2.272727272727273,Harper Brown,Education,Online
+S100248,Fall 2025,2.2,Emerson Wilson,Nursing,Online
+S100139,Fall 2025,2.142857142857143,Jordan Thomas,Computer Science,Fort Lauderdale
+S100472,Fall 2025,2.1333333333333333,Emerson Harris,Business,Fort Lauderdale
+S100146,Fall 2025,2.1,Harper Johnson,Engineering,Online
+S100005,Fall 2025,2.0,Hayden Smith,Engineering,Online
+S100019,Fall 2025,2.0,Morgan Jackson,Education,Online
+S100053,Fall 2025,2.0,Skyler White,Psychology,Tampa
+S100055,Fall 2025,2.0,Casey Martinez,Psychology,Miami
+S100061,Fall 2025,2.0,Cameron Lewis,Engineering,Orlando
+S100076,Fall 2025,2.0,Drew Garcia,Education,Fort Lauderdale
+S100091,Fall 2025,2.0,Reese White,Engineering,Fort Lauderdale
+S100098,Fall 2025,2.0,Avery Clark,Business,Miami
+S100124,Fall 2025,2.0,Morgan Smith,Business,Fort Lauderdale
+S100128,Fall 2025,2.0,Logan Thompson,Computer Science,Fort Lauderdale
+S100148,Fall 2025,2.0,Morgan Clark,Engineering,Online
+S100151,Fall 2025,2.0,Harper Johnson,Business,Orlando
+S100159,Fall 2025,2.0,Jamie Johnson,Psychology,Online
+S100165,Fall 2025,2.0,Casey Jackson,Nursing,Tampa
+S100169,Fall 2025,2.0,Kendall Anderson,Computer Science,Tampa
+S100177,Fall 2025,2.0,Harper Wilson,Nursing,Online
+S100184,Fall 2025,2.0,Jamie Davis,Psychology,Tampa
+S100201,Fall 2025,2.0,Riley Miller,Nursing,Orlando
+S100203,Fall 2025,2.0,Riley Thomas,Engineering,Miami
+S100237,Fall 2025,2.0,Reese Robinson,Nursing,Orlando
+S100241,Fall 2025,2.0,Skyler Anderson,Business,Orlando
+S100243,Fall 2025,2.0,Alex Anderson,Business,Miami
+S100246,Fall 2025,2.0,Harper Thomas,Engineering,Orlando
+S100275,Fall 2025,2.0,Emerson Miller,Education,Orlando
+S100278,Fall 2025,2.0,Parker Martinez,Engineering,Tampa
+S100284,Fall 2025,2.0,Kendall Johnson,Business,Tampa
+S100285,Fall 2025,2.0,Casey Davis,Psychology,Miami
+S100289,Fall 2025,2.0,Hayden Thomas,Nursing,Online
+S100292,Fall 2025,2.0,Quinn Harris,Education,Orlando
+S100302,Fall 2025,2.0,Hayden Thompson,Computer Science,Fort Lauderdale
+S100309,Fall 2025,2.0,Skyler Garcia,Engineering,Orlando
+S100322,Fall 2025,2.0,Taylor Smith,Business,Fort Lauderdale
+S100326,Fall 2025,2.0,Avery Davis,Psychology,Tampa
+S100327,Fall 2025,2.0,Logan Brown,Engineering,Tampa
+S100332,Fall 2025,2.0,Morgan Miller,Nursing,Fort Lauderdale
+S100336,Fall 2025,2.0,Cameron White,Business,Online
+S100341,Fall 2025,2.0,Skyler Smith,Engineering,Orlando
+S100346,Fall 2025,2.0,Hayden Thompson,Nursing,Miami
+S100355,Fall 2025,2.0,Jamie Moore,Engineering,Orlando
+S100356,Fall 2025,2.0,Taylor Taylor,Computer Science,Tampa
+S100360,Fall 2025,2.0,Jamie Garcia,Business,Tampa
+S100367,Fall 2025,2.0,Alex Martinez,Business,Miami
+S100371,Fall 2025,2.0,Avery Thompson,Engineering,Fort Lauderdale
+S100376,Fall 2025,2.0,Reese Clark,Engineering,Miami
+S100400,Fall 2025,2.0,Alex Clark,Psychology,Online
+S100401,Fall 2025,2.0,Reese Thompson,Nursing,Online
+S100440,Fall 2025,2.0,Reese Lewis,Psychology,Online
+S100442,Fall 2025,2.0,Emerson Brown,Engineering,Tampa
+S100450,Fall 2025,2.0,Parker Garcia,Computer Science,Orlando
+S100454,Fall 2025,2.0,Skyler Smith,Education,Miami
+S100298,Fall 2025,1.8571428571428572,Hayden Robinson,Education,Tampa
+S100419,Fall 2025,1.8571428571428572,Reese Clark,Psychology,Online
+S100316,Fall 2025,1.7333333333333334,Jamie White,Education,Tampa
+S100088,Fall 2025,1.7142857142857142,Drew Lewis,Computer Science,Miami
+S100207,Fall 2025,1.7142857142857142,Jordan Thompson,Engineering,Online
+S100415,Fall 2025,1.7142857142857142,Avery Martinez,Education,Orlando
+S100464,Fall 2025,1.7142857142857142,Hayden Thompson,Education,Orlando
+S100467,Fall 2025,1.7142857142857142,Emerson Johnson,Psychology,Orlando
+S100023,Fall 2025,1.5714285714285714,Morgan White,Nursing,Fort Lauderdale
+S100455,Fall 2025,1.5714285714285714,Riley Thompson,Business,Orlando
+S100397,Fall 2025,1.5454545454545454,Jordan Robinson,Education,Online
+S100046,Fall 2025,1.5,Jamie Wilson,Computer Science,Orlando
+S100154,Fall 2025,1.5,Jamie Taylor,Engineering,Orlando
+S100432,Fall 2025,1.5,Emerson Johnson,Business,Orlando
+S100224,Fall 2025,1.4545454545454546,Harper Martinez,Education,Orlando
+S100073,Fall 2025,1.4285714285714286,Harper Wilson,Nursing,Miami
+S100461,Fall 2025,1.3,Hayden Thomas,Psychology,Orlando
+S100253,Fall 2025,1.1818181818181819,Taylor Moore,Education,Tampa
+S100003,Fall 2025,1.1428571428571428,Morgan Robinson,Computer Science,Online
+S100001,Fall 2025,1.0,Parker Moore,Psychology,Orlando
+S100012,Fall 2025,1.0,Emerson Clark,Engineering,Fort Lauderdale
+S100020,Fall 2025,1.0,Rowan Lewis,Business,Online
+S100027,Fall 2025,1.0,Quinn Johnson,Psychology,Online
+S100082,Fall 2025,1.0,Skyler Johnson,Psychology,Orlando
+S100105,Fall 2025,1.0,Logan Wilson,Psychology,Orlando
+S100122,Fall 2025,1.0,Avery Johnson,Education,Fort Lauderdale
+S100145,Fall 2025,1.0,Riley Johnson,Business,Fort Lauderdale
+S100147,Fall 2025,1.0,Avery White,Psychology,Fort Lauderdale
+S100157,Fall 2025,1.0,Cameron Davis,Education,Online
+S100261,Fall 2025,1.0,Cameron Thompson,Education,Tampa
+S100286,Fall 2025,1.0,Avery White,Computer Science,Orlando
+S100317,Fall 2025,1.0,Parker Harris,Engineering,Orlando
+S100361,Fall 2025,1.0,Logan Thomas,Engineering,Miami
+S100374,Fall 2025,1.0,Reese Moore,Business,Miami
+S100402,Fall 2025,1.0,Logan Martin,Engineering,Tampa
+S100407,Fall 2025,1.0,Logan Johnson,Business,Online
+S100428,Fall 2025,1.0,Emerson Lewis,Nursing,Orlando
+S100437,Fall 2025,1.0,Casey Taylor,Engineering,Tampa
+S100329,Fall 2025,0.8571428571428571,Emerson Taylor,Nursing,Tampa
+S100469,Fall 2025,0.8571428571428571,Jamie Brown,Education,Miami
+S100006,Fall 2025,0.0,Alex Johnson,Business,Online
+S100034,Fall 2025,0.0,Rowan Wilson,Psychology,Online
+S100080,Fall 2025,0.0,Reese Moore,Education,Fort Lauderdale
+S100121,Fall 2025,0.0,Parker Martin,Education,Miami
+S100182,Fall 2025,0.0,Hayden Taylor,Education,Orlando
+S100222,Fall 2025,0.0,Hayden Jackson,Education,Fort Lauderdale
+S100229,Fall 2025,0.0,Drew Robinson,Nursing,Tampa
+S100384,Fall 2025,0.0,Morgan Wilson,Nursing,Miami
+S100425,Fall 2025,0.0,Riley Robinson,Psychology,Miami
+S100434,Fall 2025,0.0,Skyler Wilson,Engineering,Miami
+S100004,Spring 2025,4.0,Taylor Clark,Education,Miami
+S100009,Spring 2025,4.0,Alex Robinson,Nursing,Miami
+S100023,Spring 2025,4.0,Morgan White,Nursing,Fort Lauderdale
+S100029,Spring 2025,4.0,Reese Johnson,Psychology,Miami
+S100039,Spring 2025,4.0,Cameron Taylor,Business,Online
+S100047,Spring 2025,4.0,Logan White,Nursing,Miami
+S100055,Spring 2025,4.0,Casey Martinez,Psychology,Miami
+S100064,Spring 2025,4.0,Alex Brown,Nursing,Orlando
+S100072,Spring 2025,4.0,Reese Martinez,Computer Science,Online
+S100085,Spring 2025,4.0,Casey Davis,Engineering,Miami
+S100091,Spring 2025,4.0,Reese White,Engineering,Fort Lauderdale
+S100107,Spring 2025,4.0,Skyler Clark,Computer Science,Miami
+S100108,Spring 2025,4.0,Logan Moore,Nursing,Miami
+S100125,Spring 2025,4.0,Kendall Garcia,Education,Miami
+S100139,Spring 2025,4.0,Jordan Thomas,Computer Science,Fort Lauderdale
+S100144,Spring 2025,4.0,Drew Johnson,Business,Tampa
+S100148,Spring 2025,4.0,Morgan Clark,Engineering,Online
+S100173,Spring 2025,4.0,Casey Taylor,Engineering,Miami
+S100181,Spring 2025,4.0,Jordan Johnson,Psychology,Online
+S100232,Spring 2025,4.0,Jamie Lewis,Engineering,Online
+S100237,Spring 2025,4.0,Reese Robinson,Nursing,Orlando
+S100239,Spring 2025,4.0,Hayden White,Education,Fort Lauderdale
+S100250,Spring 2025,4.0,Riley Johnson,Nursing,Orlando
+S100260,Spring 2025,4.0,Skyler Wilson,Education,Fort Lauderdale
+S100264,Spring 2025,4.0,Morgan Harris,Engineering,Orlando
+S100267,Spring 2025,4.0,Jordan Robinson,Psychology,Orlando
+S100271,Spring 2025,4.0,Kendall Lewis,Computer Science,Fort Lauderdale
+S100280,Spring 2025,4.0,Parker Martin,Education,Fort Lauderdale
+S100286,Spring 2025,4.0,Avery White,Computer Science,Orlando
+S100295,Spring 2025,4.0,Cameron Thompson,Psychology,Online
+S100317,Spring 2025,4.0,Parker Harris,Engineering,Orlando
+S100333,Spring 2025,4.0,Reese Brown,Business,Orlando
+S100334,Spring 2025,4.0,Skyler Garcia,Psychology,Online
+S100354,Spring 2025,4.0,Skyler Taylor,Education,Online
+S100369,Spring 2025,4.0,Avery Harris,Nursing,Fort Lauderdale
+S100371,Spring 2025,4.0,Avery Thompson,Engineering,Fort Lauderdale
+S100381,Spring 2025,4.0,Rowan Martin,Computer Science,Online
+S100383,Spring 2025,4.0,Parker Moore,Computer Science,Fort Lauderdale
+S100399,Spring 2025,4.0,Logan Brown,Psychology,Miami
+S100409,Spring 2025,4.0,Casey Davis,Computer Science,Tampa
+S100412,Spring 2025,4.0,Morgan Robinson,Engineering,Tampa
+S100413,Spring 2025,4.0,Hayden Lewis,Nursing,Miami
+S100431,Spring 2025,4.0,Reese Anderson,Computer Science,Miami
+S100434,Spring 2025,4.0,Skyler Wilson,Engineering,Miami
+S100438,Spring 2025,4.0,Casey Johnson,Education,Miami
+S100440,Spring 2025,4.0,Reese Lewis,Psychology,Online
+S100447,Spring 2025,4.0,Taylor Lewis,Psychology,Miami
+S100456,Spring 2025,4.0,Drew Martin,Psychology,Orlando
+S100459,Spring 2025,4.0,Logan Johnson,Psychology,Online
+S100471,Spring 2025,4.0,Alex Robinson,Nursing,Fort Lauderdale
+S100475,Spring 2025,4.0,Harper Thompson,Computer Science,Orlando
+S100102,Spring 2025,3.7,Jordan Thomas,Nursing,Tampa
+S100243,Spring 2025,3.5714285714285716,Alex Anderson,Business,Miami
+S100251,Spring 2025,3.5714285714285716,Reese Martinez,Psychology,Orlando
+S100255,Spring 2025,3.5714285714285716,Quinn Davis,Computer Science,Miami
+S100372,Spring 2025,3.5714285714285716,Logan Martin,Computer Science,Fort Lauderdale
+S100433,Spring 2025,3.5714285714285716,Avery Taylor,Nursing,Tampa
+S100470,Spring 2025,3.5714285714285716,Cameron Martinez,Nursing,Orlando
+S100122,Spring 2025,3.5,Avery Johnson,Education,Fort Lauderdale
+S100289,Spring 2025,3.5,Hayden Thomas,Nursing,Online
+S100328,Spring 2025,3.5,Skyler Wilson,Psychology,Online
+S100355,Spring 2025,3.5,Jamie Moore,Engineering,Orlando
+S100407,Spring 2025,3.5,Logan Johnson,Business,Online
+S100195,Spring 2025,3.4285714285714284,Rowan Smith,Nursing,Miami
+S100245,Spring 2025,3.4285714285714284,Hayden Clark,Nursing,Miami
+S100303,Spring 2025,3.4285714285714284,Alex White,Computer Science,Miami
+S100435,Spring 2025,3.4285714285714284,Hayden Brown,Education,Online
+S100425,Spring 2025,3.4,Riley Robinson,Psychology,Miami
+S100356,Spring 2025,3.3333333333333335,Taylor Taylor,Computer Science,Tampa
+S100327,Spring 2025,3.3,Logan Brown,Engineering,Tampa
+S100336,Spring 2025,3.3,Cameron White,Business,Online
+S100140,Spring 2025,3.142857142857143,Jordan Smith,Nursing,Orlando
+S100321,Spring 2025,3.142857142857143,Rowan Moore,Education,Orlando
+S100446,Spring 2025,3.142857142857143,Logan Martin,Engineering,Tampa
+S100001,Spring 2025,3.0,Parker Moore,Psychology,Orlando
+S100003,Spring 2025,3.0,Morgan Robinson,Computer Science,Online
+S100005,Spring 2025,3.0,Hayden Smith,Engineering,Online
+S100017,Spring 2025,3.0,Jamie Brown,Psychology,Orlando
+S100021,Spring 2025,3.0,Parker Smith,Psychology,Tampa
+S100027,Spring 2025,3.0,Quinn Johnson,Psychology,Online
+S100056,Spring 2025,3.0,Logan Johnson,Engineering,Online
+S100057,Spring 2025,3.0,Jordan Brown,Psychology,Tampa
+S100059,Spring 2025,3.0,Hayden Lewis,Nursing,Fort Lauderdale
+S100066,Spring 2025,3.0,Jamie Brown,Education,Online
+S100073,Spring 2025,3.0,Harper Wilson,Nursing,Miami
+S100074,Spring 2025,3.0,Casey Jackson,Education,Miami
+S100075,Spring 2025,3.0,Riley Robinson,Psychology,Orlando
+S100076,Spring 2025,3.0,Drew Garcia,Education,Fort Lauderdale
+S100081,Spring 2025,3.0,Jordan Moore,Business,Fort Lauderdale
+S100084,Spring 2025,3.0,Taylor Robinson,Business,Online
+S100089,Spring 2025,3.0,Hayden Wilson,Psychology,Orlando
+S100092,Spring 2025,3.0,Rowan Martin,Psychology,Online
+S100097,Spring 2025,3.0,Skyler Robinson,Education,Online
+S100100,Spring 2025,3.0,Taylor Smith,Psychology,Tampa
+S100103,Spring 2025,3.0,Taylor Martinez,Engineering,Tampa
+S100111,Spring 2025,3.0,Morgan Harris,Psychology,Tampa
+S100114,Spring 2025,3.0,Jordan Brown,Education,Online
+S100116,Spring 2025,3.0,Jamie Brown,Engineering,Online
+S100117,Spring 2025,3.0,Avery Wilson,Computer Science,Online
+S100141,Spring 2025,3.0,Skyler Thompson,Nursing,Miami
+S100162,Spring 2025,3.0,Morgan Johnson,Business,Orlando
+S100166,Spring 2025,3.0,Taylor Moore,Psychology,Miami
+S100169,Spring 2025,3.0,Kendall Anderson,Computer Science,Tampa
+S100180,Spring 2025,3.0,Logan Taylor,Education,Online
+S100189,Spring 2025,3.0,Taylor Davis,Computer Science,Orlando
+S100194,Spring 2025,3.0,Jordan Anderson,Engineering,Online
+S100201,Spring 2025,3.0,Riley Miller,Nursing,Orlando
+S100203,Spring 2025,3.0,Riley Thomas,Engineering,Miami
+S100213,Spring 2025,3.0,Jamie Taylor,Nursing,Fort Lauderdale
+S100215,Spring 2025,3.0,Rowan Martinez,Education,Tampa
+S100217,Spring 2025,3.0,Jamie Garcia,Engineering,Online
+S100218,Spring 2025,3.0,Morgan Taylor,Nursing,Fort Lauderdale
+S100220,Spring 2025,3.0,Parker Smith,Education,Tampa
+S100231,Spring 2025,3.0,Hayden Johnson,Computer Science,Fort Lauderdale
+S100249,Spring 2025,3.0,Drew Thompson,Business,Fort Lauderdale
+S100253,Spring 2025,3.0,Taylor Moore,Education,Tampa
+S100268,Spring 2025,3.0,Avery Brown,Computer Science,Tampa
+S100275,Spring 2025,3.0,Emerson Miller,Education,Orlando
+S100282,Spring 2025,3.0,Avery Taylor,Computer Science,Tampa
+S100285,Spring 2025,3.0,Casey Davis,Psychology,Miami
+S100291,Spring 2025,3.0,Hayden Smith,Business,Miami
+S100293,Spring 2025,3.0,Cameron Clark,Computer Science,Online
+S100301,Spring 2025,3.0,Avery Taylor,Business,Tampa
+S100310,Spring 2025,3.0,Taylor Harris,Business,Fort Lauderdale
+S100338,Spring 2025,3.0,Skyler Moore,Computer Science,Orlando
+S100345,Spring 2025,3.0,Jamie Garcia,Psychology,Fort Lauderdale
+S100350,Spring 2025,3.0,Riley Martinez,Computer Science,Miami
+S100358,Spring 2025,3.0,Emerson Clark,Nursing,Miami
+S100364,Spring 2025,3.0,Parker Thomas,Engineering,Orlando
+S100370,Spring 2025,3.0,Logan Robinson,Business,Tampa
+S100373,Spring 2025,3.0,Alex Johnson,Nursing,Online
+S100378,Spring 2025,3.0,Kendall Martinez,Business,Tampa
+S100384,Spring 2025,3.0,Morgan Wilson,Nursing,Miami
+S100385,Spring 2025,3.0,Jamie Brown,Business,Orlando
+S100392,Spring 2025,3.0,Reese Moore,Business,Online
+S100395,Spring 2025,3.0,Kendall Davis,Engineering,Miami
+S100396,Spring 2025,3.0,Parker Smith,Computer Science,Fort Lauderdale
+S100397,Spring 2025,3.0,Jordan Robinson,Education,Online
+S100398,Spring 2025,3.0,Reese Davis,Computer Science,Online
+S100401,Spring 2025,3.0,Reese Thompson,Nursing,Online
+S100405,Spring 2025,3.0,Logan Brown,Psychology,Fort Lauderdale
+S100411,Spring 2025,3.0,Taylor Moore,Education,Fort Lauderdale
+S100428,Spring 2025,3.0,Emerson Lewis,Nursing,Orlando
+S100439,Spring 2025,3.0,Jordan Miller,Nursing,Orlando
+S100441,Spring 2025,3.0,Skyler Anderson,Engineering,Orlando
+S100445,Spring 2025,3.0,Drew Robinson,Engineering,Tampa
+S100449,Spring 2025,3.0,Jamie Lewis,Education,Miami
+S100462,Spring 2025,3.0,Jamie Brown,Psychology,Miami
+S100467,Spring 2025,3.0,Emerson Johnson,Psychology,Orlando
+S100473,Spring 2025,3.0,Jordan Wilson,Education,Fort Lauderdale
+S100474,Spring 2025,3.0,Drew Jackson,Psychology,Fort Lauderdale
+S100011,Spring 2025,2.857142857142857,Hayden Moore,Computer Science,Orlando
+S100083,Spring 2025,2.8,Taylor Thompson,Computer Science,Tampa
+S100214,Spring 2025,2.769230769230769,Taylor Taylor,Business,Online
+S100368,Spring 2025,2.7222222222222223,Quinn Johnson,Business,Orlando
+S100224,Spring 2025,2.6666666666666665,Harper Martinez,Education,Orlando
+S100307,Spring 2025,2.6666666666666665,Kendall Garcia,Computer Science,Fort Lauderdale
+S100030,Spring 2025,2.625,Avery Brown,Business,Orlando
+S100154,Spring 2025,2.6,Jamie Taylor,Engineering,Orlando
+S100408,Spring 2025,2.6,Skyler Smith,Engineering,Orlando
+S100261,Spring 2025,2.588235294117647,Cameron Thompson,Education,Tampa
+S100454,Spring 2025,2.5714285714285716,Skyler Smith,Education,Miami
+S100464,Spring 2025,2.5714285714285716,Hayden Thompson,Education,Orlando
+S100128,Spring 2025,2.5,Logan Thompson,Computer Science,Fort Lauderdale
+S100156,Spring 2025,2.5,Avery Taylor,Engineering,Miami
+S100246,Spring 2025,2.5,Harper Thomas,Engineering,Orlando
+S100304,Spring 2025,2.5,Jamie White,Nursing,Fort Lauderdale
+S100312,Spring 2025,2.5,Riley Smith,Psychology,Online
+S100346,Spring 2025,2.5,Hayden Thompson,Nursing,Miami
+S100026,Spring 2025,2.4285714285714284,Rowan Clark,Nursing,Orlando
+S100049,Spring 2025,2.4285714285714284,Parker Davis,Nursing,Tampa
+S100053,Spring 2025,2.4285714285714284,Skyler White,Psychology,Tampa
+S100204,Spring 2025,2.4285714285714284,Hayden Moore,Education,Miami
+S100308,Spring 2025,2.4285714285714284,Cameron Clark,Business,Online
+S100335,Spring 2025,2.4285714285714284,Reese Clark,Psychology,Miami
+S100418,Spring 2025,2.4285714285714284,Skyler Harris,Psychology,Online
+S100443,Spring 2025,2.4285714285714284,Emerson Anderson,Nursing,Fort Lauderdale
+S100421,Spring 2025,2.4,Harper Brown,Education,Online
+S100137,Spring 2025,2.3636363636363638,Quinn Smith,Computer Science,Tampa
+S100071,Spring 2025,2.3333333333333335,Drew Brown,Psychology,Tampa
+S100332,Spring 2025,2.3333333333333335,Morgan Miller,Nursing,Fort Lauderdale
+S100151,Spring 2025,2.2857142857142856,Harper Johnson,Business,Orlando
+S100186,Spring 2025,2.2857142857142856,Emerson Robinson,Business,Miami
+S100065,Spring 2025,2.272727272727273,Kendall Taylor,Business,Orlando
+S100252,Spring 2025,2.2142857142857144,Harper Thomas,Nursing,Online
+S100022,Spring 2025,2.1818181818181817,Emerson Robinson,Education,Tampa
+S100184,Spring 2025,2.1818181818181817,Jamie Davis,Psychology,Tampa
+S100222,Spring 2025,2.142857142857143,Hayden Jackson,Education,Fort Lauderdale
+S100324,Spring 2025,2.142857142857143,Quinn Garcia,Education,Online
+S100320,Spring 2025,2.1,Kendall Smith,Education,Fort Lauderdale
+S100006,Spring 2025,2.0,Alex Johnson,Business,Online
+S100008,Spring 2025,2.0,Drew Lewis,Business,Orlando
+S100014,Spring 2025,2.0,Riley Harris,Computer Science,Orlando
+S100025,Spring 2025,2.0,Reese Lewis,Education,Miami
+S100028,Spring 2025,2.0,Jordan Moore,Psychology,Orlando
+S100031,Spring 2025,2.0,Cameron Taylor,Psychology,Online
+S100034,Spring 2025,2.0,Rowan Wilson,Psychology,Online
+S100040,Spring 2025,2.0,Kendall Moore,Computer Science,Orlando
+S100046,Spring 2025,2.0,Jamie Wilson,Computer Science,Orlando
+S100050,Spring 2025,2.0,Avery Robinson,Engineering,Online
+S100052,Spring 2025,2.0,Skyler Harris,Education,Miami
+S100067,Spring 2025,2.0,Reese Harris,Business,Online
+S100078,Spring 2025,2.0,Logan Garcia,Psychology,Fort Lauderdale
+S100093,Spring 2025,2.0,Drew Martin,Computer Science,Orlando
+S100098,Spring 2025,2.0,Avery Clark,Business,Miami
+S100105,Spring 2025,2.0,Logan Wilson,Psychology,Orlando
+S100109,Spring 2025,2.0,Logan Harris,Education,Fort Lauderdale
+S100121,Spring 2025,2.0,Parker Martin,Education,Miami
+S100132,Spring 2025,2.0,Cameron Taylor,Psychology,Orlando
+S100135,Spring 2025,2.0,Logan Davis,Nursing,Miami
+S100145,Spring 2025,2.0,Riley Johnson,Business,Fort Lauderdale
+S100146,Spring 2025,2.0,Harper Johnson,Engineering,Online
+S100153,Spring 2025,2.0,Skyler Martinez,Computer Science,Tampa
+S100158,Spring 2025,2.0,Reese Martin,Business,Miami
+S100160,Spring 2025,2.0,Alex Martin,Engineering,Online
+S100163,Spring 2025,2.0,Kendall Wilson,Psychology,Orlando
+S100167,Spring 2025,2.0,Rowan Anderson,Nursing,Tampa
+S100175,Spring 2025,2.0,Kendall Davis,Computer Science,Fort Lauderdale
+S100192,Spring 2025,2.0,Kendall Davis,Engineering,Miami
+S100198,Spring 2025,2.0,Rowan Robinson,Computer Science,Fort Lauderdale
+S100200,Spring 2025,2.0,Casey Moore,Psychology,Miami
+S100207,Spring 2025,2.0,Jordan Thompson,Engineering,Online
+S100226,Spring 2025,2.0,Skyler Wilson,Education,Online
+S100227,Spring 2025,2.0,Parker Smith,Education,Tampa
+S100228,Spring 2025,2.0,Hayden Garcia,Computer Science,Miami
+S100234,Spring 2025,2.0,Reese Martinez,Education,Online
+S100236,Spring 2025,2.0,Jamie White,Computer Science,Orlando
+S100241,Spring 2025,2.0,Skyler Anderson,Business,Orlando
+S100244,Spring 2025,2.0,Reese Wilson,Engineering,Orlando
+S100266,Spring 2025,2.0,Drew Martin,Computer Science,Fort Lauderdale
+S100290,Spring 2025,2.0,Kendall Martin,Engineering,Online
+S100294,Spring 2025,2.0,Alex Clark,Education,Tampa
+S100296,Spring 2025,2.0,Alex Jackson,Education,Fort Lauderdale
+S100300,Spring 2025,2.0,Avery Thompson,Computer Science,Online
+S100305,Spring 2025,2.0,Riley Martin,Psychology,Orlando
+S100322,Spring 2025,2.0,Taylor Smith,Business,Fort Lauderdale
+S100326,Spring 2025,2.0,Avery Davis,Psychology,Tampa
+S100330,Spring 2025,2.0,Rowan Miller,Computer Science,Orlando
+S100340,Spring 2025,2.0,Harper Brown,Nursing,Tampa
+S100347,Spring 2025,2.0,Morgan Harris,Business,Tampa
+S100351,Spring 2025,2.0,Parker Lewis,Education,Fort Lauderdale
+S100359,Spring 2025,2.0,Harper White,Business,Orlando
+S100361,Spring 2025,2.0,Logan Thomas,Engineering,Miami
+S100365,Spring 2025,2.0,Parker Lewis,Business,Tampa
+S100375,Spring 2025,2.0,Cameron Moore,Business,Miami
+S100379,Spring 2025,2.0,Rowan Harris,Computer Science,Tampa
+S100386,Spring 2025,2.0,Kendall Miller,Engineering,Tampa
+S100402,Spring 2025,2.0,Logan Martin,Engineering,Tampa
+S100406,Spring 2025,2.0,Taylor White,Engineering,Miami
+S100417,Spring 2025,2.0,Emerson Anderson,Computer Science,Online
+S100430,Spring 2025,2.0,Jordan Moore,Business,Orlando
+S100432,Spring 2025,2.0,Emerson Johnson,Business,Orlando
+S100444,Spring 2025,2.0,Cameron Taylor,Psychology,Fort Lauderdale
+S100472,Spring 2025,2.0,Emerson Harris,Business,Fort Lauderdale
+S100478,Spring 2025,2.0,Kendall Davis,Computer Science,Fort Lauderdale
+S100196,Spring 2025,1.9090909090909092,Rowan Wilson,Education,Orlando
+S100143,Spring 2025,1.8571428571428572,Riley Smith,Psychology,Miami
+S100314,Spring 2025,1.8571428571428572,Jamie Wilson,Education,Orlando
+S100389,Spring 2025,1.8571428571428572,Skyler Martinez,Business,Miami
+S100062,Spring 2025,1.8,Emerson Martinez,Psychology,Tampa
+S100360,Spring 2025,1.7272727272727273,Jamie Garcia,Business,Tampa
+S100219,Spring 2025,1.6363636363636365,Riley Clark,Education,Online
+S100155,Spring 2025,1.5,Quinn Thomas,Psychology,Tampa
+S100394,Spring 2025,1.5,Reese Garcia,Psychology,Miami
+S100016,Spring 2025,1.4545454545454546,Casey Wilson,Computer Science,Orlando
+S100012,Spring 2025,1.0,Emerson Clark,Engineering,Fort Lauderdale
+S100013,Spring 2025,1.0,Parker Garcia,Psychology,Miami
+S100018,Spring 2025,1.0,Taylor White,Computer Science,Miami
+S100033,Spring 2025,1.0,Riley Jackson,Business,Fort Lauderdale
+S100079,Spring 2025,1.0,Morgan Jackson,Education,Online
+S100099,Spring 2025,1.0,Avery Garcia,Computer Science,Miami
+S100124,Spring 2025,1.0,Morgan Smith,Business,Fort Lauderdale
+S100190,Spring 2025,1.0,Kendall Smith,Business,Orlando
+S100223,Spring 2025,1.0,Jamie Harris,Business,Miami
+S100311,Spring 2025,1.0,Casey Martin,Psychology,Tampa
+S100316,Spring 2025,1.0,Jamie White,Education,Tampa
+S100366,Spring 2025,1.0,Parker Robinson,Engineering,Tampa
+S100367,Spring 2025,1.0,Alex Martinez,Business,Miami
+S100387,Spring 2025,1.0,Quinn Wilson,Nursing,Orlando
+S100460,Spring 2025,1.0,Logan Jackson,Nursing,Fort Lauderdale
+S100463,Spring 2025,1.0,Riley Thomas,Psychology,Tampa
+S100242,Spring 2025,0.9,Cameron Robinson,Business,Online
+S100002,Spring 2025,0.0,Avery Davis,Computer Science,Tampa
+S100019,Spring 2025,0.0,Morgan Jackson,Education,Online
+S100054,Spring 2025,0.0,Rowan Moore,Business,Miami
+S100061,Spring 2025,0.0,Cameron Lewis,Engineering,Orlando
+S100086,Spring 2025,0.0,Logan Robinson,Engineering,Orlando
+S100096,Spring 2025,0.0,Jamie Garcia,Psychology,Fort Lauderdale
+S100165,Spring 2025,0.0,Casey Jackson,Nursing,Tampa
+S100393,Spring 2025,0.0,Rowan Miller,Education,Fort Lauderdale
+S100008,Summer 2025,4.0,Drew Lewis,Business,Orlando
+S100016,Summer 2025,4.0,Casey Wilson,Computer Science,Orlando
+S100031,Summer 2025,4.0,Cameron Taylor,Psychology,Online
+S100034,Summer 2025,4.0,Rowan Wilson,Psychology,Online
+S100042,Summer 2025,4.0,Avery Smith,Psychology,Tampa
+S100059,Summer 2025,4.0,Hayden Lewis,Nursing,Fort Lauderdale
+S100073,Summer 2025,4.0,Harper Wilson,Nursing,Miami
+S100096,Summer 2025,4.0,Jamie Garcia,Psychology,Fort Lauderdale
+S100127,Summer 2025,4.0,Riley Harris,Psychology,Online
+S100149,Summer 2025,4.0,Avery Clark,Education,Miami
+S100185,Summer 2025,4.0,Parker Miller,Nursing,Fort Lauderdale
+S100186,Summer 2025,4.0,Emerson Robinson,Business,Miami
+S100190,Summer 2025,4.0,Kendall Smith,Business,Orlando
+S100196,Summer 2025,4.0,Rowan Wilson,Education,Orlando
+S100211,Summer 2025,4.0,Avery Garcia,Business,Online
+S100220,Summer 2025,4.0,Parker Smith,Education,Tampa
+S100221,Summer 2025,4.0,Morgan Lewis,Education,Miami
+S100226,Summer 2025,4.0,Skyler Wilson,Education,Online
+S100228,Summer 2025,4.0,Hayden Garcia,Computer Science,Miami
+S100248,Summer 2025,4.0,Emerson Wilson,Nursing,Online
+S100263,Summer 2025,4.0,Casey Garcia,Psychology,Miami
+S100272,Summer 2025,4.0,Jamie Martin,Psychology,Online
+S100292,Summer 2025,4.0,Quinn Harris,Education,Orlando
+S100309,Summer 2025,4.0,Skyler Garcia,Engineering,Orlando
+S100331,Summer 2025,4.0,Harper Lewis,Education,Miami
+S100346,Summer 2025,4.0,Hayden Thompson,Nursing,Miami
+S100361,Summer 2025,4.0,Logan Thomas,Engineering,Miami
+S100366,Summer 2025,4.0,Parker Robinson,Engineering,Tampa
+S100384,Summer 2025,4.0,Morgan Wilson,Nursing,Miami
+S100387,Summer 2025,4.0,Quinn Wilson,Nursing,Orlando
+S100404,Summer 2025,4.0,Jordan Taylor,Computer Science,Orlando
+S100411,Summer 2025,4.0,Taylor Moore,Education,Fort Lauderdale
+S100416,Summer 2025,4.0,Cameron Martin,Computer Science,Miami
+S100420,Summer 2025,4.0,Harper Smith,Psychology,Online
+S100443,Summer 2025,4.0,Emerson Anderson,Nursing,Fort Lauderdale
+S100456,Summer 2025,4.0,Drew Martin,Psychology,Orlando
+S100479,Summer 2025,4.0,Reese Martin,Psychology,Orlando
+S100247,Summer 2025,3.5714285714285716,Emerson Martin,Engineering,Miami
+S100267,Summer 2025,3.5714285714285716,Jordan Robinson,Psychology,Orlando
+S100424,Summer 2025,3.5714285714285716,Riley Moore,Education,Fort Lauderdale
+S100082,Summer 2025,3.5,Skyler Johnson,Psychology,Orlando
+S100151,Summer 2025,3.5,Harper Johnson,Business,Orlando
+S100337,Summer 2025,3.5,Quinn Johnson,Nursing,Miami
+S100358,Summer 2025,3.5,Emerson Clark,Nursing,Miami
+S100408,Summer 2025,3.5,Skyler Smith,Engineering,Orlando
+S100451,Summer 2025,3.5,Taylor Moore,Education,Tampa
+S100066,Summer 2025,3.4545454545454546,Jamie Brown,Education,Online
+S100121,Summer 2025,3.4545454545454546,Parker Martin,Education,Miami
+S100063,Summer 2025,3.4285714285714284,Parker Robinson,Psychology,Orlando
+S100182,Summer 2025,3.4285714285714284,Hayden Taylor,Education,Orlando
+S100305,Summer 2025,3.4285714285714284,Riley Martin,Psychology,Orlando
+S100327,Summer 2025,3.4285714285714284,Logan Brown,Engineering,Tampa
+S100070,Summer 2025,3.3636363636363638,Drew Miller,Business,Tampa
+S100171,Summer 2025,3.3333333333333335,Alex Robinson,Nursing,Online
+S100355,Summer 2025,3.3,Jamie Moore,Engineering,Orlando
+S100283,Summer 2025,3.272727272727273,Jamie Thomas,Education,Tampa
+S100090,Summer 2025,3.142857142857143,Kendall Wilson,Computer Science,Online
+S100119,Summer 2025,3.142857142857143,Emerson Davis,Computer Science,Miami
+S100389,Summer 2025,3.142857142857143,Skyler Martinez,Business,Miami
+S100421,Summer 2025,3.142857142857143,Harper Brown,Education,Online
+S100391,Summer 2025,3.066666666666667,Morgan Wilson,Computer Science,Fort Lauderdale
+S100001,Summer 2025,3.0,Parker Moore,Psychology,Orlando
+S100009,Summer 2025,3.0,Alex Robinson,Nursing,Miami
+S100015,Summer 2025,3.0,Jamie Taylor,Business,Online
+S100018,Summer 2025,3.0,Taylor White,Computer Science,Miami
+S100020,Summer 2025,3.0,Rowan Lewis,Business,Online
+S100023,Summer 2025,3.0,Morgan White,Nursing,Fort Lauderdale
+S100026,Summer 2025,3.0,Rowan Clark,Nursing,Orlando
+S100033,Summer 2025,3.0,Riley Jackson,Business,Fort Lauderdale
+S100046,Summer 2025,3.0,Jamie Wilson,Computer Science,Orlando
+S100048,Summer 2025,3.0,Emerson Davis,Education,Tampa
+S100053,Summer 2025,3.0,Skyler White,Psychology,Tampa
+S100061,Summer 2025,3.0,Cameron Lewis,Engineering,Orlando
+S100064,Summer 2025,3.0,Alex Brown,Nursing,Orlando
+S100067,Summer 2025,3.0,Reese Harris,Business,Online
+S100076,Summer 2025,3.0,Drew Garcia,Education,Fort Lauderdale
+S100077,Summer 2025,3.0,Harper Thomas,Psychology,Fort Lauderdale
+S100078,Summer 2025,3.0,Logan Garcia,Psychology,Fort Lauderdale
+S100079,Summer 2025,3.0,Morgan Jackson,Education,Online
+S100080,Summer 2025,3.0,Reese Moore,Education,Fort Lauderdale
+S100081,Summer 2025,3.0,Jordan Moore,Business,Fort Lauderdale
+S100085,Summer 2025,3.0,Casey Davis,Engineering,Miami
+S100088,Summer 2025,3.0,Drew Lewis,Computer Science,Miami
+S100089,Summer 2025,3.0,Hayden Wilson,Psychology,Orlando
+S100095,Summer 2025,3.0,Avery Johnson,Business,Tampa
+S100097,Summer 2025,3.0,Skyler Robinson,Education,Online
+S100104,Summer 2025,3.0,Avery Taylor,Education,Orlando
+S100107,Summer 2025,3.0,Skyler Clark,Computer Science,Miami
+S100110,Summer 2025,3.0,Quinn Brown,Engineering,Fort Lauderdale
+S100126,Summer 2025,3.0,Taylor Moore,Computer Science,Orlando
+S100133,Summer 2025,3.0,Emerson Anderson,Business,Miami
+S100143,Summer 2025,3.0,Riley Smith,Psychology,Miami
+S100158,Summer 2025,3.0,Reese Martin,Business,Miami
+S100166,Summer 2025,3.0,Taylor Moore,Psychology,Miami
+S100167,Summer 2025,3.0,Rowan Anderson,Nursing,Tampa
+S100183,Summer 2025,3.0,Jordan Garcia,Nursing,Orlando
+S100193,Summer 2025,3.0,Hayden Davis,Nursing,Orlando
+S100201,Summer 2025,3.0,Riley Miller,Nursing,Orlando
+S100218,Summer 2025,3.0,Morgan Taylor,Nursing,Fort Lauderdale
+S100223,Summer 2025,3.0,Jamie Harris,Business,Miami
+S100227,Summer 2025,3.0,Parker Smith,Education,Tampa
+S100235,Summer 2025,3.0,Reese Harris,Business,Tampa
+S100238,Summer 2025,3.0,Casey Wilson,Nursing,Orlando
+S100245,Summer 2025,3.0,Hayden Clark,Nursing,Miami
+S100252,Summer 2025,3.0,Harper Thomas,Nursing,Online
+S100256,Summer 2025,3.0,Alex Smith,Psychology,Online
+S100258,Summer 2025,3.0,Harper Johnson,Business,Orlando
+S100259,Summer 2025,3.0,Emerson Harris,Business,Orlando
+S100282,Summer 2025,3.0,Avery Taylor,Computer Science,Tampa
+S100310,Summer 2025,3.0,Taylor Harris,Business,Fort Lauderdale
+S100313,Summer 2025,3.0,Parker White,Nursing,Tampa
+S100317,Summer 2025,3.0,Parker Harris,Engineering,Orlando
+S100338,Summer 2025,3.0,Skyler Moore,Computer Science,Orlando
+S100341,Summer 2025,3.0,Skyler Smith,Engineering,Orlando
+S100359,Summer 2025,3.0,Harper White,Business,Orlando
+S100360,Summer 2025,3.0,Jamie Garcia,Business,Tampa
+S100362,Summer 2025,3.0,Riley Thompson,Business,Orlando
+S100363,Summer 2025,3.0,Quinn Jackson,Computer Science,Miami
+S100368,Summer 2025,3.0,Quinn Johnson,Business,Orlando
+S100372,Summer 2025,3.0,Logan Martin,Computer Science,Fort Lauderdale
+S100377,Summer 2025,3.0,Rowan Thompson,Nursing,Orlando
+S100378,Summer 2025,3.0,Kendall Martinez,Business,Tampa
+S100385,Summer 2025,3.0,Jamie Brown,Business,Orlando
+S100388,Summer 2025,3.0,Logan Taylor,Computer Science,Miami
+S100395,Summer 2025,3.0,Kendall Davis,Engineering,Miami
+S100396,Summer 2025,3.0,Parker Smith,Computer Science,Fort Lauderdale
+S100397,Summer 2025,3.0,Jordan Robinson,Education,Online
+S100410,Summer 2025,3.0,Skyler Anderson,Education,Online
+S100417,Summer 2025,3.0,Emerson Anderson,Computer Science,Online
+S100422,Summer 2025,3.0,Quinn Wilson,Computer Science,Miami
+S100429,Summer 2025,3.0,Logan Anderson,Engineering,Miami
+S100437,Summer 2025,3.0,Casey Taylor,Engineering,Tampa
+S100445,Summer 2025,3.0,Drew Robinson,Engineering,Tampa
+S100450,Summer 2025,3.0,Parker Garcia,Computer Science,Orlando
+S100459,Summer 2025,3.0,Logan Johnson,Psychology,Online
+S100463,Summer 2025,3.0,Riley Thomas,Psychology,Tampa
+S100465,Summer 2025,3.0,Reese White,Computer Science,Orlando
+S100466,Summer 2025,3.0,Kendall Smith,Nursing,Miami
+S100469,Summer 2025,3.0,Jamie Brown,Education,Miami
+S100470,Summer 2025,3.0,Cameron Martinez,Nursing,Orlando
+S100103,Summer 2025,2.909090909090909,Taylor Martinez,Engineering,Tampa
+S100092,Summer 2025,2.857142857142857,Rowan Martin,Psychology,Online
+S100251,Summer 2025,2.857142857142857,Reese Martinez,Psychology,Orlando
+S100399,Summer 2025,2.857142857142857,Logan Brown,Psychology,Miami
+S100144,Summer 2025,2.8125,Drew Johnson,Business,Tampa
+S100043,Summer 2025,2.769230769230769,Jamie White,Nursing,Orlando
+S100068,Summer 2025,2.7333333333333334,Riley Martin,Engineering,Miami
+S100140,Summer 2025,2.727272727272727,Jordan Smith,Nursing,Orlando
+S100243,Summer 2025,2.7142857142857144,Alex Anderson,Business,Miami
+S100326,Summer 2025,2.7142857142857144,Avery Davis,Psychology,Tampa
+S100152,Summer 2025,2.6363636363636362,Hayden Clark,Business,Orlando
+S100058,Summer 2025,2.5714285714285716,Casey Miller,Nursing,Fort Lauderdale
+S100062,Summer 2025,2.5714285714285716,Emerson Martinez,Psychology,Tampa
+S100065,Summer 2025,2.5714285714285716,Kendall Taylor,Business,Orlando
+S100215,Summer 2025,2.5714285714285716,Rowan Martinez,Education,Tampa
+S100472,Summer 2025,2.5714285714285716,Emerson Harris,Business,Fort Lauderdale
+S100029,Summer 2025,2.5,Reese Johnson,Psychology,Miami
+S100036,Summer 2025,2.5,Harper Miller,Engineering,Online
+S100054,Summer 2025,2.5,Rowan Moore,Business,Miami
+S100093,Summer 2025,2.5,Drew Martin,Computer Science,Orlando
+S100101,Summer 2025,2.5,Avery Johnson,Nursing,Orlando
+S100178,Summer 2025,2.5,Jamie Wilson,Engineering,Online
+S100197,Summer 2025,2.5,Avery Brown,Nursing,Fort Lauderdale
+S100202,Summer 2025,2.5,Hayden Garcia,Computer Science,Orlando
+S100273,Summer 2025,2.5,Harper Martinez,Nursing,Orlando
+S100380,Summer 2025,2.5,Kendall Thomas,Education,Online
+S100407,Summer 2025,2.5,Logan Johnson,Business,Online
+S100409,Summer 2025,2.5,Casey Davis,Computer Science,Tampa
+S100109,Summer 2025,2.4285714285714284,Logan Harris,Education,Fort Lauderdale
+S100051,Summer 2025,2.4,Kendall Taylor,Engineering,Fort Lauderdale
+S100333,Summer 2025,2.4,Reese Brown,Business,Orlando
+S100102,Summer 2025,2.3636363636363638,Jordan Thomas,Nursing,Tampa
+S100320,Summer 2025,2.3333333333333335,Kendall Smith,Education,Fort Lauderdale
+S100402,Summer 2025,2.3076923076923075,Logan Martin,Engineering,Tampa
+S100044,Summer 2025,2.3,Parker Johnson,Engineering,Orlando
+S100257,Summer 2025,2.3,Avery Thompson,Computer Science,Tampa
+S100350,Summer 2025,2.3,Riley Martinez,Computer Science,Miami
+S100030,Summer 2025,2.2857142857142856,Avery Brown,Business,Orlando
+S100113,Summer 2025,2.2857142857142856,Hayden Martin,Education,Fort Lauderdale
+S100191,Summer 2025,2.2857142857142856,Rowan Clark,Psychology,Online
+S100427,Summer 2025,2.2857142857142856,Alex Harris,Computer Science,Orlando
+S100308,Summer 2025,2.2,Cameron Clark,Business,Online
+S100164,Summer 2025,2.142857142857143,Drew Taylor,Education,Tampa
+S100004,Summer 2025,2.0,Taylor Clark,Education,Miami
+S100007,Summer 2025,2.0,Quinn Moore,Education,Online
+S100013,Summer 2025,2.0,Parker Garcia,Psychology,Miami
+S100019,Summer 2025,2.0,Morgan Jackson,Education,Online
+S100032,Summer 2025,2.0,Emerson Jackson,Engineering,Tampa
+S100037,Summer 2025,2.0,Kendall Moore,Engineering,Online
+S100045,Summer 2025,2.0,Quinn Clark,Nursing,Orlando
+S100047,Summer 2025,2.0,Logan White,Nursing,Miami
+S100052,Summer 2025,2.0,Skyler Harris,Education,Miami
+S100071,Summer 2025,2.0,Drew Brown,Psychology,Tampa
+S100091,Summer 2025,2.0,Reese White,Engineering,Fort Lauderdale
+S100098,Summer 2025,2.0,Avery Clark,Business,Miami
+S100105,Summer 2025,2.0,Logan Wilson,Psychology,Orlando
+S100123,Summer 2025,2.0,Emerson Robinson,Nursing,Miami
+S100131,Summer 2025,2.0,Cameron Garcia,Computer Science,Fort Lauderdale
+S100132,Summer 2025,2.0,Cameron Taylor,Psychology,Orlando
+S100137,Summer 2025,2.0,Quinn Smith,Computer Science,Tampa
+S100138,Summer 2025,2.0,Skyler Robinson,Nursing,Online
+S100141,Summer 2025,2.0,Skyler Thompson,Nursing,Miami
+S100154,Summer 2025,2.0,Jamie Taylor,Engineering,Orlando
+S100156,Summer 2025,2.0,Avery Taylor,Engineering,Miami
+S100159,Summer 2025,2.0,Jamie Johnson,Psychology,Online
+S100163,Summer 2025,2.0,Kendall Wilson,Psychology,Orlando
+S100165,Summer 2025,2.0,Casey Jackson,Nursing,Tampa
+S100168,Summer 2025,2.0,Riley Martin,Education,Orlando
+S100169,Summer 2025,2.0,Kendall Anderson,Computer Science,Tampa
+S100179,Summer 2025,2.0,Parker Martinez,Nursing,Fort Lauderdale
+S100187,Summer 2025,2.0,Hayden Robinson,Psychology,Fort Lauderdale
+S100195,Summer 2025,2.0,Rowan Smith,Nursing,Miami
+S100199,Summer 2025,2.0,Hayden Lewis,Education,Miami
+S100203,Summer 2025,2.0,Riley Thomas,Engineering,Miami
+S100210,Summer 2025,2.0,Reese Moore,Nursing,Online
+S100216,Summer 2025,2.0,Cameron Robinson,Business,Orlando
+S100219,Summer 2025,2.0,Riley Clark,Education,Online
+S100232,Summer 2025,2.0,Jamie Lewis,Engineering,Online
+S100237,Summer 2025,2.0,Reese Robinson,Nursing,Orlando
+S100246,Summer 2025,2.0,Harper Thomas,Engineering,Orlando
+S100250,Summer 2025,2.0,Riley Johnson,Nursing,Orlando
+S100265,Summer 2025,2.0,Avery Miller,Nursing,Online
+S100266,Summer 2025,2.0,Drew Martin,Computer Science,Fort Lauderdale
+S100271,Summer 2025,2.0,Kendall Lewis,Computer Science,Fort Lauderdale
+S100275,Summer 2025,2.0,Emerson Miller,Education,Orlando
+S100279,Summer 2025,2.0,Logan Moore,Psychology,Orlando
+S100281,Summer 2025,2.0,Taylor Anderson,Nursing,Tampa
+S100284,Summer 2025,2.0,Kendall Johnson,Business,Tampa
+S100285,Summer 2025,2.0,Casey Davis,Psychology,Miami
+S100287,Summer 2025,2.0,Casey Wilson,Engineering,Miami
+S100303,Summer 2025,2.0,Alex White,Computer Science,Miami
+S100314,Summer 2025,2.0,Jamie Wilson,Education,Orlando
+S100328,Summer 2025,2.0,Skyler Wilson,Psychology,Online
+S100336,Summer 2025,2.0,Cameron White,Business,Online
+S100339,Summer 2025,2.0,Morgan Anderson,Education,Miami
+S100357,Summer 2025,2.0,Emerson Moore,Computer Science,Fort Lauderdale
+S100371,Summer 2025,2.0,Avery Thompson,Engineering,Fort Lauderdale
+S100373,Summer 2025,2.0,Alex Johnson,Nursing,Online
+S100383,Summer 2025,2.0,Parker Moore,Computer Science,Fort Lauderdale
+S100394,Summer 2025,2.0,Reese Garcia,Psychology,Miami
+S100400,Summer 2025,2.0,Alex Clark,Psychology,Online
+S100401,Summer 2025,2.0,Reese Thompson,Nursing,Online
+S100431,Summer 2025,2.0,Reese Anderson,Computer Science,Miami
+S100434,Summer 2025,2.0,Skyler Wilson,Engineering,Miami
+S100435,Summer 2025,2.0,Hayden Brown,Education,Online
+S100440,Summer 2025,2.0,Reese Lewis,Psychology,Online
+S100442,Summer 2025,2.0,Emerson Brown,Engineering,Tampa
+S100446,Summer 2025,2.0,Logan Martin,Engineering,Tampa
+S100454,Summer 2025,2.0,Skyler Smith,Education,Miami
+S100458,Summer 2025,2.0,Skyler Harris,Business,Fort Lauderdale
+S100468,Summer 2025,2.0,Jamie Taylor,Nursing,Orlando
+S100473,Summer 2025,2.0,Jordan Wilson,Education,Fort Lauderdale
+S100444,Summer 2025,1.9285714285714286,Cameron Taylor,Psychology,Fort Lauderdale
+S100452,Summer 2025,1.8571428571428572,Skyler Clark,Education,Miami
+S100433,Summer 2025,1.8181818181818181,Avery Taylor,Nursing,Tampa
+S100478,Summer 2025,1.7857142857142858,Kendall Davis,Computer Science,Fort Lauderdale
+S100457,Summer 2025,1.7142857142857142,Parker Miller,Psychology,Online
+S100213,Summer 2025,1.6666666666666667,Jamie Taylor,Nursing,Fort Lauderdale
+S100172,Summer 2025,1.6,Reese Brown,Education,Tampa
+S100027,Summer 2025,1.5,Quinn Johnson,Psychology,Online
+S100075,Summer 2025,1.5,Riley Robinson,Psychology,Orlando
+S100115,Summer 2025,1.5,Jordan White,Psychology,Tampa
+S100276,Summer 2025,1.5,Logan Martin,Education,Orlando
+S100296,Summer 2025,1.5,Alex Jackson,Education,Fort Lauderdale
+S100365,Summer 2025,1.5,Parker Lewis,Business,Tampa
+S100430,Summer 2025,1.5,Jordan Moore,Business,Orlando
+S100170,Summer 2025,1.4285714285714286,Harper Martinez,Psychology,Tampa
+S100184,Summer 2025,1.4285714285714286,Jamie Davis,Psychology,Tampa
+S100334,Summer 2025,1.4285714285714286,Skyler Garcia,Psychology,Online
+S100405,Summer 2025,1.4285714285714286,Logan Brown,Psychology,Fort Lauderdale
+S100364,Summer 2025,1.1428571428571428,Parker Thomas,Engineering,Orlando
+S100406,Summer 2025,1.1428571428571428,Taylor White,Engineering,Miami
+S100072,Summer 2025,1.0,Reese Martinez,Computer Science,Online
+S100125,Summer 2025,1.0,Kendall Garcia,Education,Miami
+S100155,Summer 2025,1.0,Quinn Thomas,Psychology,Tampa
+S100270,Summer 2025,1.0,Emerson Martinez,Engineering,Miami
+S100274,Summer 2025,1.0,Hayden Robinson,Education,Miami
+S100277,Summer 2025,1.0,Parker Moore,Nursing,Tampa
+S100286,Summer 2025,1.0,Avery White,Computer Science,Orlando
+S100342,Summer 2025,1.0,Rowan Robinson,Education,Fort Lauderdale
+S100344,Summer 2025,1.0,Taylor Martinez,Computer Science,Tampa
+S100353,Summer 2025,1.0,Emerson Harris,Education,Fort Lauderdale
+S100354,Summer 2025,1.0,Skyler Taylor,Education,Online
+S100414,Summer 2025,1.0,Harper Lewis,Psychology,Online
+S100419,Summer 2025,1.0,Reese Clark,Psychology,Online
+S100462,Summer 2025,1.0,Jamie Brown,Psychology,Miami
+S100231,Summer 2025,0.9090909090909091,Hayden Johnson,Computer Science,Fort Lauderdale
+S100307,Summer 2025,0.8571428571428571,Kendall Garcia,Computer Science,Fort Lauderdale
+S100087,Summer 2025,0.6666666666666666,Riley Taylor,Nursing,Fort Lauderdale
+S100142,Summer 2025,0.5,Drew Martinez,Nursing,Fort Lauderdale
+S100000,Summer 2025,0.0,Morgan Garcia,Education,Miami
+S100069,Summer 2025,0.0,Alex Taylor,Psychology,Miami
+S100112,Summer 2025,0.0,Rowan Harris,Nursing,Tampa
+S100130,Summer 2025,0.0,Jordan Miller,Education,Fort Lauderdale
+S100145,Summer 2025,0.0,Riley Johnson,Business,Fort Lauderdale
+S100148,Summer 2025,0.0,Morgan Clark,Engineering,Online
+S100174,Summer 2025,0.0,Morgan Brown,Business,Tampa
+S100175,Summer 2025,0.0,Kendall Davis,Computer Science,Fort Lauderdale
+S100240,Summer 2025,0.0,Riley Lewis,Psychology,Fort Lauderdale
+S100241,Summer 2025,0.0,Skyler Anderson,Business,Orlando
+S100268,Summer 2025,0.0,Avery Brown,Computer Science,Tampa
+S100315,Summer 2025,0.0,Emerson Thomas,Education,Fort Lauderdale
+S100332,Summer 2025,0.0,Morgan Miller,Nursing,Fort Lauderdale
+S100335,Summer 2025,0.0,Reese Clark,Psychology,Miami
+S100367,Summer 2025,0.0,Alex Martinez,Business,Miami
+S100398,Summer 2025,0.0,Reese Davis,Computer Science,Online

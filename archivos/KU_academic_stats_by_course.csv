@@ -1,0 +1,15 @@
+Department, Course_ID, Course_Name             , Enrollments, Avg_Grade, Pass_Rate, Highest_Grade, Lowest_Grade
+Business  , BUS101   , Principles of Management,         138,      2.49,      91.3, A            , F
+Business  , BUS201   , Financial Accounting    ,         147,      2.43,      93.2, A            , F
+Health    , HLT120   , Human Anatomy           ,         127,      2.59,      96.1, A            , F
+Health    , HLT220   , Public Health Basics    ,         136,      2.68,      94.1, A            , F
+Humanities, HUM101   , Intro to Philosophy     ,         120,      2.64,      94.2, A            , F
+Humanities, HUM201   , World Literature        ,         128,      2.58,      96.1, A            , F
+Math      , MTH101   , Calculus I              ,         145,      2.58,      95.2, A            , F
+Math      , MTH201   , Statistics              ,         162,      2.67,      97.5, A            , F
+Science   , SCI110   , General Biology         ,         156,      2.53,      94.2, A            , F
+Science   , SCI210   , Chemistry I             ,         140,      2.6 ,      97.1, A            , F
+Technology, TEC101   , Intro to Programming    ,         124,      2.5 ,      89.5, A            , F
+Technology, TEC201   , Data Structures         ,         136,      2.49,      92.6, A            , F
+Technology, TEC220   , Databases               ,         160,      2.54,      92.5, A            , F
+Technology, TEC230   , Computer Networks       ,         121,      2.65,      95.9, A            , F
