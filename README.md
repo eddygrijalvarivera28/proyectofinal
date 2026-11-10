@@ -1,4 +1,6 @@
 # Proyecto Final Python
-este es nuestro trabajo
-Eddy Francisco Grijalva Rivera 28 de Febrero
-Brytanny
+Este es nuestro trabajo
+Angel Morales
+Eddy Francisco Grijalva Rivera 
+Brytanny Gutiérrez
+28 de febrero
